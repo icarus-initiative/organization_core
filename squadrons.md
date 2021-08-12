@@ -25,11 +25,16 @@
   | Member 4 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
   | Member 5 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
 
-- Resource Evaluated
+- Resources
 
-  | Title                                               | Status      | Vote | Vote Approved | Additional Notes & Info |
-  | --------------------------------------------------- | ----------- | ---- | ------------- | ----------------------- |
-  | [Rustlings](https://github.com/rust-lang/rustlings) | In Progress | TBD  | TBD           | N/A                     |
+  | Title | Status | Vote | Vote Approved | Additional Notes & Info |
+  | ----- | ------ | ---- | ------------- | ----------------------- |
+
+- Projects
+
+  | Project Name    | User | Status | Link                                                  |
+  | --------------- | ---- | ------ | ----------------------------------------------------- |
+  | Ragnarok Wallet | ksx  | open   | [github](https://github.com/timh1203/ragnarok_wallet) |
 
 # EU Squadrons
 
@@ -52,6 +57,11 @@
 
 - Resource Evaluated
 
-  | Title                                               | Vote                  | Additional Notes & Info | Approved |
-  | --------------------------------------------------- | --------------------- | ----------------------- | -------- |
-  | [Rustlings](https://github.com/rust-lang/rustlings) | Add to 1st expedition | N/A                     | TBD      |
+  | Title | Status | Vote | Vote Approved | Additional Notes & Info |
+  | ----- | ------ | ---- | ------------- | ----------------------- |
+
+- Projects
+
+  | Project Name | User | Status | Link |
+
+  | ------------ | ---- | ------ | ---- |

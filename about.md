@@ -72,10 +72,7 @@
 - Create a PoC video on youtube to gain visibility.
 - Create flight updates from expeditions to gain visibility.
 - Organize the virtual events to gain visibility.
-- Translate this document to create a website.
-  - Have logins, interactive features, etc on the website.
-  - Gamify the process to display account achievements.
-- Come up with a better name? SOL Squadron? Rust Raiders?
+- Incorporate with a better name? SOL Squadron? Rust Raiders?
 
 ### Curriculum
 
@@ -87,7 +84,10 @@
 
 ### Organization
 
-- Implement Discourse, high priority
+- Create a website.
+  - Have logins, interactive features, etc on the website.
+  - Gamify the process to display account achievements.
+- Create a forum with [Discourse](https://www.discourse.org/), [ElkArte](https://www.elkarte.net/), or [SimpleMachine](https://www.simplemachines.org/).
 
 ### Scaling
 
@@ -96,10 +96,10 @@
 
 ### Monetization
 
-- Community tokens with support from Solstar Finance.
-- SOL Rewards for completing expeditions. Funded by Solana.
-- Hats, T-shirts, and sunglasses rewards for reaching the 5th flight plan. Funded by Solana.
-- Wings NFTs for members who have completed expeditions. Provided by an Expedition Project.
+- Community tokens rewards.
+- Wings NFTs for members who have completed expeditions. Provided by an expedition Project.
+- Hats, T-shirts, and sunglasses rewards for reaching the 4th flight plan.
+- SOL Rewards for completing expeditions.
 
 ---
 
