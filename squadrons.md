@@ -17,13 +17,12 @@
   | 1st        | TBD        | TBD             | TBD             |
 
 - Roster
-  | Preferred Name | Country | Time Zone | Discord | Twitter | GitHub | LinkedIn | Expedition Count |
-  | -------------- | ------- | --------- | ------- | -------------------------------------- | --------------------------------------- | --------------------------------------------------------- | ---------------- |
-  | Tim | USA | UTC-5 | ksx | [timhdev](https://twitter.com/timhdev) | [timh1203](https://github.com/timh1203) | [timothyhoang](https://www.linkedin.com/in/timothyhoang/) | 0 |
-  | Member 2 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
-  | Member 3 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
-  | Member 4 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
-  | Member 5 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
+  | Preferred Name | Country       | Time Zone     | Discord       | Twitter                                            | GitHub                                            | LinkedIn                                                   | Expedition Count |
+  | -------------- | ------------- | ------------- | ------------- | -------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------- | ---------------- |
+  | Tim            | USA           | UTC-5         | ksx           | [timhdev](https://twitter.com/timhdev)             | [timh1203](https://github.com/timh1203)           | [timothyhoang](https://www.linkedin.com/in/timothyhoang/)  | 0                |
+  | Member 2       | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0                |
+  | Member 3       | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0                |
+  | Member 4       | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0                |
 
 - Resources
 
@@ -47,15 +46,14 @@
   | 1st        | TBD        | TBD             | TBD             |
 
 - Roster
-  | Preferred Name | Country | Time Zone | Discord | Twitter | GitHub | LinkedIn | Expedition Count |
-  | -------------- | ------- | --------- | ------- | -------------------------------------- | --------------------------------------- | --------------------------------------------------------- | ---------------- |
-  | Joe | Nigeria | UTC+1 | son_of_man | [xyz](https://twitter.com/) | [mysticis](https://github.com/mysticis) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
-  | Member 2 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
-  | Member 3 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
-  | Member 4 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
-  | Member 5 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
+  | Preferred Name | Country       | Time Zone     | Discord       | Twitter                                            | GitHub                                            | LinkedIn                                                   | Expedition Count |
+  | -------------- | ------------- | ------------- | ------------- | -------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------- | ---------------- |
+  | Joe            | Nigeria       | UTC+1         | son_of_man    | N/A                                                | [mysticis](https://github.com/mysticis)           | N/A                                                        | 0                |
+  | Member 2       | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0                |
+  | Member 3       | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0                |
+  | Member 4       | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0                |
 
-- Resource Evaluated
+- Resources
 
   | Title | Status | Vote | Vote Approved | Additional Notes & Info |
   | ----- | ------ | ---- | ------------- | ----------------------- |
@@ -63,5 +61,4 @@
 - Projects
 
   | Project Name | User | Status | Link |
-
   | ------------ | ---- | ------ | ---- |
