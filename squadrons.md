@@ -49,7 +49,7 @@
 - Roster
   | Preferred Name | Country | Time Zone | Discord | Twitter | GitHub | LinkedIn | Expedition Count |
   | -------------- | ------- | --------- | ------- | -------------------------------------- | --------------------------------------- | --------------------------------------------------------- | ---------------- |
-  | Member 1 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
+  | Joe | Nigeria | UTC+1 | son_of_man | [xyz](https://twitter.com/) | [mysticis](https://github.com/mysticis) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
   | Member 2 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
   | Member 3 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
   | Member 4 | xyz | xyz | xyz | [xyz](https://twitter.com/xyz) | [xyz](https://github.com/xyz) | [xyz](https://www.linkedin.com/in/xyz/) | 0 |
