@@ -50,7 +50,7 @@
   | Preferred Name | Country | Time Zone | Discord | Twitter | GitHub | LinkedIn | Expedition Count |
   | -------------- | ------------- | ------------- | ------------- | -------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------- | ---------------- |
   | Joe | Nigeria | UTC+1 | son_of_man | N/A | [mysticis](https://github.com/mysticis) | N/A | 0 |
-  | Silvestre | EU | CET | silvestrevivo | [silvestrevivo](https://twitter.com/silvestrevivo) | [silvestrevivo](https://github.com/silvestrevivo) | [silvestrevivo](https://www.linkedin.com/in/silvestre-vivo-1a6843bb) | 0 |
+  | Silvestre | EU | UTC+1 | silvestrevivo | [silvestrevivo](https://twitter.com/silvestrevivo) | [silvestrevivo](https://github.com/silvestrevivo) | [silvestrevivo](https://www.linkedin.com/in/silvestre-vivo-1a6843bb) | 0 |
   | Member 2 | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0 |
   | Member 3 | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0 |
   | Member 4 | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0 |
