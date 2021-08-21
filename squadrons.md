@@ -23,6 +23,7 @@
   | Charles | USA | UTC-5 | ReachableCEO | [reachableceo](https://twitter.com/reachableceo) | [reachableceo](https://github.com/reachableceo) | N/A | 0 |
   | Nearly | USA | UTC-4 | Nearly | [NearlyNeverHere](https://twitter.com/NearlyNeverHere) | [NearlyAlwaysThere](https://github.com/NearlyAlwaysThere) | N/A | 0 |
   | James | USA | UTC-5 | jamesscaggs | [jamesscaggs](https://twitter.com/jamesscaggs) | [jamesscaggs](https://github.com/jamesscaggs) | [jamesscaggs](https://www.linkedin.com/in/jamesscaggs) | 0 |
+  | Silvestre | EU | CET | silvestrevivo | [silvestrevivo](https://twitter.com/silvestrevivo) | [silvestrevivo](https://github.com/silvestrevivo) | [silvestrevivo](https://www.linkedin.com/in/silvestre-vivo-1a6843bb) | 0 |
   | Member 4 | <Member Info> | <Member Info> | <Member Info> | [<Member Info>](https://twitter.com/<Member Info>) | [<Member Info>](https://github.com/<Member Info>) | [<Member Info>](https://www.linkedin.com/in/<Member Info>) | 0 |
 
 - Resources
