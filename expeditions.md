@@ -14,8 +14,8 @@
 ### Goal
 
 - The 1st expedition is about building relationships and trust within with your squad. This helps you connect with your teammates and adapt learning & communication styles. Hopefully, you'll build good relationships to work together on the next expeditions and compete in hack-a-thon's.
-- On the technology side, we build slowly on purpose with what's already familiar and give ample time for reading and learning the foundations of the blockchain. It also gives others to help the other pilots get up to speed about version control, file folder structuring, and any other common development processes in the industry. We aim to work with Solana SDKs like solana-web3js. We will also use this project for our portfolio so make it nice! Use tools you haven't tried before as the only limit is you.
-- To see past projects, visit a squadrons file, like `1st_squadron.md` in `main` to see their projects.
+- On the technology side, we build slowly on purpose with what's already familiar and give ample time for reading and learning the foundations of the blockchain. It also gives others to help the other pilots get up to speed about version control, file folder structuring, and any other common development processes in the industry. We aim to work with Solana SDKs like [solana-web3js](https://github.com/solana-labs/solana-web3.js). We will also use this project for our portfolio so make it nice! Use tools you haven't tried before as the only limit is you.
+- To see past projects, visit a squadrons repository, like [1st_squadron_na_emea](https://github.com/icarus-initiative/1st_squadron_na_emea) on the github organization.
 
 ### Recommended Readings
 
