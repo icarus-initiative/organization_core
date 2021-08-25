@@ -8,7 +8,7 @@
 - Recommended path to get started:
   - Solana pathway on [figment.io](http://figment.io).
   - Read how KK's twitter thread on [learning Solana](https://twitter.com/karthikkalyan90/status/1394805514840596482).
-  - The Learn Rust book paried with Rustlings on [rust-lang.org](https://www.rust-lang.org/learn).
+  - The Learn Rust book paired with Rustlings on [rust-lang.org](https://www.rust-lang.org/learn).
   - Youtube videos alternative pairing option on [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8).
 
 ---
