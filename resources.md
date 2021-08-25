@@ -8,8 +8,8 @@
 - Recommended path to get started:
   - Solana pathway on [figment.io](http://figment.io).
   - Read how KK's twitter thread on [learning Solana](https://twitter.com/karthikkalyan90/status/1394805514840596482).
-  - The Learn Rust book or do Rustlings on [rust-lang.org](https://www.rust-lang.org/learn).
-  - Microsoft Beginner's Series to Rust course on [youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x).
+  - The Learn Rust book paried with Rustlings on [rust-lang.org](https://www.rust-lang.org/learn).
+  - Youtube videos alternative pairing option on [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8).
 
 ---
 
@@ -55,17 +55,21 @@
 
 - How to read docs.rs - [http://blog.frqc.info/post/how-to-read-rust-docs/](http://blog.frqc.info/post/how-to-read-rust-docs/)
 - Code Challenges work through- [https://github.com/SRITANU/SolHack_Rust_StudyGroup](https://github.com/SRITANU/SolHack_Rust_StudyGroup)
-- Code Challenges Idea - [https://adriann.github.io/programming_problems.html](https://adriann.github.io/programming_problems.html)
+- Common Programming Problems - [https://adriann.github.io/programming_problems.html](https://adriann.github.io/programming_problems.html)
 
 ---
 
-### [Rust Study Group/Icarus Initiative](https://github.com/icarus-initiative/icarus_iniative) - A community-driven, iterative curriculum and group learning experience for learning Rust and Solana blockchain development
+### [Rust Study Group/Icarus Initiative](https://github.com/icarus-initiative/icarus_initiative) - A community-driven, iterative curriculum and group learning experience for learning Rust and Solana blockchain development
+
+- Icarus Readme - [https://github.com/icarus-initiative/icarus_initiative/blob/main/README.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/README.md)
+- Icarus Resources - [https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md](https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md)
+- Icarus Expeditions - [https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
+- Icarus Squadrons - [https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
 
 ---
 
 - Our own study group for the SOLHACK study group channel.
 - RSG Github Home - [https://github.com/icarus-initiative](https://github.com/icarus-initiative/icarus_iniative)
-- RSG Github Resources - [https://github.com/icarus-initiative/icarus_iniative](https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md)
 - RSG Sessions Youtube Playlist - <https://www.youtube.com/playlist?list=PLdSTAoM_WxkpCjBHDWgGHycfmdjoKpNlt>
 - Adam's Slide - [https://hackmd.io/@adamisrusty/HJiHeKyRd](https://hackmd.io/@adamisrusty/HJiHeKyRd)
 - 2021 Jul 20
@@ -88,6 +92,7 @@
 
 ### Solana Resources - Explore Solana Briefly
 
+- Solana's Developer Resources - [https://solana.com/developers](https://solana.com/developers)
 - ChangeHero brief introduction article - [https://changehero.io/blog/what-is-solana/](https://changehero.io/blog/what-is-solana/)
 - Solana's 8 Innovations - [https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
 - Solana Ecosystem - [https://solana.com/ecosystem](https://solana.com/ecosystem)
