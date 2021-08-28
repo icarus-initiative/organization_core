@@ -1,6 +1,6 @@
 # Icarus Initiative - Squadrons
 
-- Document version 1.0 (2021-8-8)
+- Document version 1.1 (2021-8-28)
 
 - The squadrons document shares the squadron and rosters.
 
@@ -15,7 +15,6 @@
   | Preferred Name | Country | Time Zone | Discord       | Twitter                                                | GitHub                                                    | LinkedIn                                                             | Expedition Count |
   | -------------- | ------- | --------- | ------------- | ------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------------- | ---------------- |
   | Tim            | USA     | UTC-5     | ksx           | [timhdev](https://twitter.com/timhdev)                 | [timh1203](https://github.com/timh1203)                   | [timothyhoang](https://www.linkedin.com/in/timothyhoang/)            | 0                |
-  | Charles        | USA     | UTC-5     | ReachableCEO  | [reachableceo](https://twitter.com/reachableceo)       | [reachableceo](https://github.com/reachableceo)           | N/A                                                                  | 0                |
   | Nearly         | USA     | UTC-4     | Nearly        | [NearlyNeverHere](https://twitter.com/NearlyNeverHere) | [NearlyAlwaysThere](https://github.com/NearlyAlwaysThere) | N/A                                                                  | 0                |
   | James          | USA     | UTC-5     | jamesscaggs   | [jamesscaggs](https://twitter.com/jamesscaggs)         | [jamesscaggs](https://github.com/jamesscaggs)             | [jamesscaggs](https://www.linkedin.com/in/jamesscaggs)               | 0                |
   | Joe            | Nigeria | UTC+1     | son_of_man    | N/A                                                    | [mysticis](https://github.com/mysticis)                   | N/A                                                                  | 0                |
