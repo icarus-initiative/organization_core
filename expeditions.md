@@ -1,9 +1,9 @@
 # Icarus Initiative - Expeditions
 
-- Document version 1.0 (2021-8-8)
+- Document version 1.1 (2021-8-28)
 - The expeditions document is the ever-shifting curriculum that squadrons use.
 
-- The [Solana pathway on figment.io](https://learn.figment.io/network-documentation/solana) must have been completed prior to engaging in expeditions.
+- The [Solana protocol](https://learn.figment.io/protocols/solana) must have been completed prior to engaging in expeditions.
 - These are subject to change as squads cast votes.
 - More resources to be added to expeditions as squadrons progress...
 
@@ -19,27 +19,36 @@
 
 ### Project
 
-- Build a wallet that is connected to the datahub devnet blockchain backend with a front-end language of your choice.
-- It should be a wallet that has a send and receive on the menu bar.
-- It should be able to pull the current balance from the devnet blockchain.
-- It should be able to send lamports from your wallet to a specified wallet and a specified amount that the user inputs.
-- It should generate the Solana Explorer URL that users can click to see their transactions.
-- It should be able to have a way to display the public address to receive lamports.
-- Stretch goal: explore the solana/web3.js documentation to see what else you can implement ([https://solana-labs.github.io/solana-web3.js/](https://solana-labs.github.io/solana-web3.js/)).
-- Stretch goal: implement a QR code, tweet, email, or link for your public address so others can send lamports to your wallet.
-- Stretch goal: implement a seed file with a directory of a friend's address that loads on app start. Implement the directory feature and add it to the menu bar.
-- Stretch goal: implement a fun theme to your wallet from Spriters Resources ([https://www.spriters-resource.com/](https://www.spriters-resource.com/)). Make the sprites animated!
+- [ ] Should be a wallet that is connected to the datahub devnet blockchain backend with a front-end language of choice.
+- [ ] Should have a navigation bar with wallet, send, and receive links.
+- [ ] For wallet section, should be able to pull the current balance from the devnet blockchain.
+- [ ] For send section, should be able to send lamports from your wallet to a specified wallet and a specified amount that the user inputs.
+- [ ] For send section, should generate the Solana Explorer URL that users can click to see their transactions.
+- [ ] For receive section, should be able to have a way to display the public address and copy the address to receive lamports.
+- Stretch goal: Explore the solana/web3.js documentation to see what else you can implement ([https://solana-labs.github.io/solana-web3.js/](https://solana-labs.github.io/solana-web3.js/)).
+- Stretch goal: Implement a QR code, tweet, email, or link for your public address so others can send lamports to your wallet.
+- Stretch goal: Implement a seed file or database to hold an address directory of wallet address that loads on app start and persists after after shuts down. Implement the directory feature and add it to the menu bar.
+- Stretch goal: Implement a fun theme to your wallet from Spriters Resources ([https://www.spriters-resource.com/](https://www.spriters-resource.com/)). Make the sprites animated!
 
 ### Resources
 
-- **Start on the Learn Rust Book**
-- The Learn Rust book on [rust-lang.org](https://www.rust-lang.org/learn).
+1. Open position
+2. Open position
+3. Open position
+4. Open position
+5. Open position
+6. Open position
+7. Open position
+8. Open position
+9. Open position
+10. Open position
 
-- **Main Book Pairing (choose 1 or more)**
-- Youtube videos on [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8).
-- Rustlings on [rust-lang.org](https://www.rust-lang.org/learn).
+### Resource Pool
 
-### Recommended Readings
+1. [The Learn Rust book](https://www.rust-lang.org/learn)
+2. [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+3. [Rustlings](https://www.rust-lang.org/learn)
+4. [Blockchain at Berkeley Spring 2021](https://blockchain.berkeley.edu/courses/spring-2021-fundamentals-decal/)
 
 ### Socials
 
@@ -57,13 +66,22 @@
 
 ### Project
 
-- Building an identity solution or implement an existing one into the wallet.
+- Build an NFT Minting Platform and mint NFT variations (master, open, and limited editions)
 
 ### Resources
 
-- Squad's decision
+1. Open position
+2. Open position
+3. Open position
+4. Open position
+5. Open position
+6. Open position
+7. Open position
+8. Open position
+9. Open position
+10. Open position
 
-### Recommended Readings
+### Resource Pool
 
 ### Socials
 
@@ -78,13 +96,23 @@
 
 - NFT's a big thing in the blockchain. Inevitably, you will probably have to build out some version of NFTs anyways, let's make it a project.
 
-### Project Build an NFT Minting Platform and mint NFT variations (master, open, and limited editions)
+### Project
+- Build an RPG Game that uses NFTs to represent rare items in the games.
 
 ### Resources
 
-- Squad's decision
+1. Open position
+2. Open position
+3. Open position
+4. Open position
+5. Open position
+6. Open position
+7. Open position
+8. Open position
+9. Open position
+10. Open position
 
-### Recommended Readings
+### Resource Pool
 
 ### Socials
 
@@ -99,14 +127,24 @@
 
 - Great job on making this this far. Hopefully the squad has learned enough to make a big scale project and working to collaborate together. Now, we'll work on an enterprise level project from start to finish. This would be the equivalent of a capstone project of a bootcamp. Make the MVP, make it real, and potentially get hired as a developer. We have at least 4 projects after this expedition which is probably more than enough to get a job in blockchain. It's so exciting to reach this point, the future is teeming with possibilities.
 
-- Project Build a DEX that can trade tokens, RPG Game that uses NFTs, or squad's decision.
+### Project
+- Build a DEX that can trade tokens.
 
-- Resources
+### Resources
 
-  - Squad's decision
+1. Open position
+2. Open position
+3. Open position
+4. Open position
+5. Open position
+6. Open position
+7. Open position
+8. Open position
+9. Open position
+10. Open position
 
-- Recommended Readings
+### Resource Pool
 
-- Socials
+### Socials
   - Connect on Twitter, LinkedIn, GitHub with the squadron 3 degrees above you and below you.
   - Optional but recommended, send them a friendly hello and connect with them on the 3 platforms.

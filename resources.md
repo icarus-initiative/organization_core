@@ -1,14 +1,14 @@
-# Resources
+# Icarus Initiative - Resources
 
-- Document version 1.0 (2021-8-14)
+- Document version 1.1 (2021-8-28)
 -
 - Welcome to an unofficial developer resource collection.
 - We are not associated with any groups (Solana, SOLHack, Figment.io).
 - We do hang out in SOLHACK #study-groups discord.
 - Recommended path to get started:
-  - Solana pathway on [figment.io](http://figment.io).
+  - Solana Protocol on [figment.io](http://figment.io).
   - Read how KK's twitter thread on [learning Solana](https://twitter.com/karthikkalyan90/status/1394805514840596482).
-  - The Learn Rust book paired with Rustlings on [rust-lang.org](https://www.rust-lang.org/learn).
+  - The Learn [Rust book](https://doc.rust-lang.org/book/) paired with Rustlings on [rust-lang.org](https://www.rust-lang.org/learn).
   - Youtube videos alternative pairing option on [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8).
 
 ---
@@ -26,7 +26,7 @@
 - Figment YouTube (For previous event recordings, pathway videos, intro videos etc.) -[https://www.youtube.com/channel/UCW8jHuPqYLE6bYFR30aGg9Q](https://www.youtube.com/channel/UCW8jHuPqYLE6bYFR30aGg9Q)
 - Figment Discord - [https://discord.com/invite/fszyM7K](https://discord.com/invite/fszyM7K)
 - Tutorials - [https://learn.figment.io/figment-learn/all-tutorials](https://learn.figment.io/figment-learn/all-tutorials)
-- Pathways - [https://learn.figment.io/network-documentation/solana/solana-pathway](https://learn.figment.io/network-documentation/solana/solana-pathway)
+- Solana Pathway - [https://learn.figment.io/protocols/solana](https://learn.figment.io/protocols/solana)
   - SOLANA Learn Pathway Tutorial Series (Figment Learn) - [https://www.youtube.com/playlist?list=PLkgTdjgP1aUAiqqbvVi3b0sSdxByd5KSX](https://www.youtube.com/playlist?list=PLkgTdjgP1aUAiqqbvVi3b0sSdxByd5KSX)
 - Articles
   - Introducing Learn: The Web 3 Knowledge Base (2020 Nov) - [https://figment.io/resources/introducing-learn-the-web-3-knowledge-base/](https://figment.io/resources/introducing-learn-the-web-3-knowledge-base/)
@@ -65,7 +65,7 @@
 - Icarus Resources - [https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md](https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md)
 - Icarus Expeditions - [https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
 - Icarus Squadrons - [https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
-
+- Icarus 1st Expedition Project Guidelines - [TBA](TBA)
 ---
 
 - Our own study group for the SOLHACK study group channel.
@@ -159,8 +159,8 @@
 ---
 
 ### Rust Books & Websites
-
 - Rust Learning Resources by [Figment.io](http://figment.io) - [https://learn.figment.io/network-documentation/extra-guides/rust-learning-resources](https://learn.figment.io/network-documentation/extra-guides/rust-learning-resources)
+
 - Learn Rust - [https://www.rust-lang.org/learn](https://www.rust-lang.org/learn)
   - The Rust Programming Language Book - [https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
   - The Rust Reference - [https://doc.rust-lang.org/reference/index.html](https://doc.rust-lang.org/reference/index.html)
