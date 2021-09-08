@@ -19,29 +19,40 @@
 
 ### Project
 
-- [ ] Should be a wallet that is connected to the datahub devnet blockchain backend with a front-end language of choice.
-- [ ] Should have a navigation bar with wallet, send, and receive links.
-- [ ] For wallet section, should be able to pull the current balance from the devnet blockchain.
-- [ ] For send section, should be able to send lamports from your wallet to a specified wallet and a specified amount that the user inputs.
-- [ ] For send section, should generate the Solana Explorer URL that users can click to see their transactions.
-- [ ] For receive section, should be able to have a way to display the public address and copy the address to receive lamports.
-- Stretch goal: Explore the solana/web3.js documentation to see what else you can implement ([https://solana-labs.github.io/solana-web3.js/](https://solana-labs.github.io/solana-web3.js/)).
-- Stretch goal: Implement a QR code, tweet, email, or link for your public address so others can send lamports to your wallet.
-- Stretch goal: Implement a seed file or database to hold an address directory of wallet address that loads on app start and persists after after shuts down. Implement the directory feature and add it to the menu bar.
-- Stretch goal: Implement a fun theme to your wallet from Spriters Resources ([https://www.spriters-resource.com/](https://www.spriters-resource.com/)). Make the sprites animated!
+- Visit the [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)
 
 ### Resources
 
 1. Open position
+   - PROS:
+   - CONS:
 2. Open position
+   - PROS:
+   - CONS:
 3. Open position
+   - PROS:
+   - CONS:
 4. Open position
+   - PROS:
+   - CONS:
 5. Open position
+   - PROS:
+   - CONS:
 6. Open position
+   - PROS:
+   - CONS:
 7. Open position
+   - PROS:
+   - CONS:
 8. Open position
+   - PROS:
+   - CONS:
 9. Open position
+   - PROS:
+   - CONS:
 10. Open position
+    - PROS:
+    - CONS:
 
 ### Resource Pool
 
@@ -53,7 +64,17 @@
 ### Socials
 
 - Connect on Twitter, LinkedIn, Github with all the pilots in your squadron.
-- Don't forget to encourage your co-pilots!
+- Tweet at your squadmates with progress and screenshots!
+- Here's a template you can get started with! Go for it!
+
+```
+Day 1
+#icarussquadron @IcarusSquadron @squadmate1 @squadmate2 @squadmate3
+
+✅I've setup my github for version control and created a new wallet repo.
+✅Planned the technologies to be implemented.
+✅Started on the UI!
+```
 
 ---
 
@@ -66,20 +87,40 @@
 
 ### Project
 
-- Build an NFT Minting Platform and mint NFT variations (master, open, and limited editions)
+- Building a Smart Contract with time delayed escrow.
 
 ### Resources
 
 1. Open position
+   - PROS:
+   - CONS:
 2. Open position
+   - PROS:
+   - CONS:
 3. Open position
+   - PROS:
+   - CONS:
 4. Open position
+   - PROS:
+   - CONS:
 5. Open position
+   - PROS:
+   - CONS:
 6. Open position
+   - PROS:
+   - CONS:
 7. Open position
+   - PROS:
+   - CONS:
 8. Open position
+   - PROS:
+   - CONS:
 9. Open position
+   - PROS:
+   - CONS:
 10. Open position
+    - PROS:
+    - CONS:
 
 ### Resource Pool
 
@@ -97,20 +138,41 @@
 - NFT's a big thing in the blockchain. Inevitably, you will probably have to build out some version of NFTs anyways, let's make it a project.
 
 ### Project
-- Build an RPG Game that uses NFTs to represent rare items in the games.
+
+- Build an NFT Minting Platform and mint NFT variations (master, open, and limited editions)
 
 ### Resources
 
 1. Open position
+   - PROS:
+   - CONS:
 2. Open position
+   - PROS:
+   - CONS:
 3. Open position
+   - PROS:
+   - CONS:
 4. Open position
+   - PROS:
+   - CONS:
 5. Open position
+   - PROS:
+   - CONS:
 6. Open position
+   - PROS:
+   - CONS:
 7. Open position
+   - PROS:
+   - CONS:
 8. Open position
+   - PROS:
+   - CONS:
 9. Open position
+   - PROS:
+   - CONS:
 10. Open position
+    - PROS:
+    - CONS:
 
 ### Resource Pool
 
@@ -128,23 +190,45 @@
 - Great job on making this this far. Hopefully the squad has learned enough to make a big scale project and working to collaborate together. Now, we'll work on an enterprise level project from start to finish. This would be the equivalent of a capstone project of a bootcamp. Make the MVP, make it real, and potentially get hired as a developer. We have at least 4 projects after this expedition which is probably more than enough to get a job in blockchain. It's so exciting to reach this point, the future is teeming with possibilities.
 
 ### Project
-- Build a DEX that can trade tokens.
+
+- Build an RPG Game that uses NFTs to represent rare items in the games.
 
 ### Resources
 
 1. Open position
+   - PROS:
+   - CONS:
 2. Open position
+   - PROS:
+   - CONS:
 3. Open position
+   - PROS:
+   - CONS:
 4. Open position
+   - PROS:
+   - CONS:
 5. Open position
+   - PROS:
+   - CONS:
 6. Open position
+   - PROS:
+   - CONS:
 7. Open position
+   - PROS:
+   - CONS:
 8. Open position
+   - PROS:
+   - CONS:
 9. Open position
+   - PROS:
+   - CONS:
 10. Open position
+    - PROS:
+    - CONS:
 
 ### Resource Pool
 
 ### Socials
-  - Connect on Twitter, LinkedIn, GitHub with the squadron 3 degrees above you and below you.
-  - Optional but recommended, send them a friendly hello and connect with them on the 3 platforms.
+
+- Connect on Twitter, LinkedIn, GitHub with the squadron 3 degrees above you and below you.
+- Optional but recommended, send them a friendly hello and connect with them on the 3 platforms.
