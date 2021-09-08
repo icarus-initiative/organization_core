@@ -1,12 +1,12 @@
-# Icarus Initiative
+l# Icarus Initiative
 
 - Document version 1.1 (2021-8-28)
 
 - The about document explains all about the initiative.
 - The `README.md` is the entry point for this repo.
-  - Expeditions are published on `expeditions.md`.
-  - Squadrons are published on `squadrons.md`.
-  - Resources are published in `resources.md`.
+  - [Expeditions](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
+  - [Squadrons](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
+  - [Resources](https://github.com/icarus-initiative/icarus_initiative/blob/main/resources.md)
 
 ---
 
@@ -33,12 +33,18 @@
 
 - A zero-cost, crowdsource community of Rust/Solana learners that iteratively improve the curriculum by building projects, evaluating resources, and voting on curriculum development.
 - This initiative came about due to the myriad of resources that can often leave the uninitiated lost on their learning path.
-- In the absence of a clear path, we blaze our own trail methodically and intelligently.
 
 > What are the requirements to join the Icarus Iniative?
 
-- The developer must already have completed Figment's Solana Protocol (see `resources.md`), have some programming experience like javascript or python, and be willing to pioneer.
-- The minimum skills are listed more in depth in the [1st_expedition_project_guidelines markdown](https://github.com/icarus-initiative/icarus_initiative).
+- The developer must already have completed [Figment's Solana Protocol](https://learn.figment.io/protocols/solana), have some programming experience like javascript or python, and be willing to pioneer.
+- To get a better idea, get a sample of the minimum skills for the 1st project listed more in depth in the [1st_expedition_project_guidelines markdown](https://github.com/icarus-initiative/icarus_initiative).
+
+> What's the cost of this initiative?
+
+- It's completely free and community-driven.
+- This community empower members to take the lead to help foster a learning community.
+- Each pilot contributes in their own way whether it's by voting, creating content, or sharing deliverables.
+- When you listen, you learn. When you talk, I learn. When either teaches, we both learn.
 
 > What are the benefits of joining this initiative?
 
@@ -54,44 +60,39 @@
 - Twitter to socially interact with the online community.
 - Many other incentives, partnerships, and growth are planned.
 
-> How do I sign up for this initiative?
-
-- The initiative is being piloted right now to test drive the concept. Once the concept is more established and battle-tested, it can be appropriately released to bring in more squadrons!
-
-> What's the cost of this initiative?
-
-- It's completely free and community-driven. You really get a lot more if you participate. When you listen, you learn. When you talk, I learn. When either teaches, we both learn. This is a community to empower members to take the lead to help foster a learning community. Each pilot contributes in their own way whether it's by voting, creating content, or sharing deliverables.
-
 > What role can I play in this initiative?
 
-- *Roles Available*
-  - *Member* - A member of the community who wishes to observe or is looking to join/create a squad.
-  - *Pilot* -  Active learners who embark on learning expeditions by building recommended projects and evaluating different resources.
+- _Roles Available_
+  - _Member_ - A member of the community who wishes to observe or is looking to join/create a squad.
+  - _Pilot_ - Active learners who embark on learning expeditions by building recommended projects and evaluating different resources.
   - Pilots are required to have completed Figment's Solana Pathway before starting the 1st expedition.
-  - *Captain* -  Takes more of a leadership role in a squadron by merging PRs, organizing the groups, capturing squad members thoughts & concerns, communicating with admins to build out the curriculum further. Captains are obviously pilots also because they are leading their squad on the expedition.
-  - *Admin* - Set up systems and infrastructure for squads and the organization, optimize systems to demystify knowledge and make more accessible, and handle any public relations.
+  - _Captain_ - Takes more of a leadership role in a squadron by merging PRs, organizing the groups, capturing squad members thoughts & concerns, communicating with admins to build out the curriculum further. Captains are obviously pilots also because they are leading their squad on the expedition.
+  - _Admin_ - Set up systems and infrastructure for squads and the organization, optimize systems to demystify knowledge and make more accessible, and handle any public relations.
 
 > How to squadrons briefly work?
 
 - A squad consisting of 4-6 members embark on expeditions to level up together. A squadron aims to build a recommended project and evaluating at least one course, video series, or code sets on an expedition.
-- There's many variables left up to the squad to decide something more benefitting including other projects, expedition length, additional resources, and any other innovative ideas.
+- There's many variables left up to the squad to decide if something more fitting including other projects, expedition length, additional resources, and any other innovative ideas.
 - At least one of the members will be the captain, who will delegate and serve as a representive for the squadron. It's recommended that there's 2 captains to make the squad flow with major hitches. They would help with merging PRs, gathering the group, and communicating with organization admins.
 - While there's the personal learning aspect, the social aspect will promote cohesion and cameraderie. We use various platforms that will be listed in the benefits section.
 
-> Are there any incentives to finish or join this group?
+- > How do I sign up for this initiative?
 
-- The current incentives right now are becoming a recognized leader in the space and builder of the learning path for learners. There will be partnerships and incentives in the future. You will not be forgotten when incentives rolling out.
+- The initiative is being piloted right now to test drive the concept.
+- Once the concept is more established and battle-tested, the initiative will start to roll out.
+- As planned, you can join as a pilot or captain. Eventually captains can advance to admin.
 
-> What are some of the methods for the organization?
+> What are some of the methods of the organization?
 
 - Crowdsourcing can be a powerful force to help build the community that this initiative aims to harness and transmute into a platform for new learners.
 - The aim is not to make a set curriculum but rather one that can be flexible and adaptive to the community needs.
 - A lot of the power is distributed to each squadron to as how they want to guide their own learning. The squadron comes together and validates ideas to contribute back to the initiative. Think of the Socratic method meet blockchain concepts.
-- Members, pilots, and captains are encouraged to take charge of their own learning, disseminate knowledge and experiences for future learners, and blazing a trail where there are none. These transmutations can take various forms such as creating deliverables for consumption, helping to answer technical questions, or leading events.
+- Members, pilots, and captains are encouraged to take charge of their own learning, disseminate knowledge and experiences for future learners, and blazing a trail where there are none.
+- These contributions can take various forms such as creating deliverables for consumption, helping to answer technical questions, or leading events.
 
 > Who do I contact about this initiative, comments, and proposals?
 
-- Join [Icarus Discord Channel](https://discord.gg/9yYsQVYR3K).
+- Reach out to an admin on the [Icarus Discord Channel](https://discord.gg/9yYsQVYR3K).
 
 ---
 

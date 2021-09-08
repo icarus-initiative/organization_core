@@ -11,6 +11,7 @@
 - **Roster**
 
   - Primary Zones: NA and EMEA
+  - [Squadron Core Page](https://github.com/icarus-initiative/1st_squadron_core) for projects and status.
 
   | Preferred Name | Country | Time Zone | Discord       | Twitter                                                | GitHub                                                    | LinkedIn                                                             | Expedition Count |
   | -------------- | ------- | --------- | ------------- | ------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------------- | ---------------- |
@@ -32,9 +33,10 @@
 
 - **Roster**
 
-  - Primary Zone: [FIELD TO BE COMPLETED]
+  - Primary Zone: [TO BE COMPLETED]
+  - [Squadron Core Page](LINK TO BE COMPLETED)
 
-  - [SECTION TO BE COMPLETED]
+  - [FIELDS BELOW TO BE COMPLETED]
 
   - 4-6 members possible
   - | Preferred Name | Country       | Time Zone     | Discord       | Twitter                                              | GitHub                                              | LinkedIn                                                     | Expedition Count |
@@ -71,8 +73,9 @@
 - **Roster**
 
   - Primary Zone: [TO BE COMPLETED]
+  - [Squadron Core Page](LINK TO BE COMPLETED)
 
-  - [FIELD TO BE COMPLETED]
+  - [FIELDS BELOW TO BE COMPLETED]
 
   - 4-6 members possible
   - | Preferred Name | Country       | Time Zone     | Discord       | Twitter                                              | GitHub                                              | LinkedIn                                                     | Expedition Count |
