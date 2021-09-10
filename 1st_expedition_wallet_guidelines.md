@@ -149,7 +149,7 @@ Tags: #icarus #1stexpedition #wallet #guidelines
 
 - Here's a template you can get started with! Go for it!
 
-```
+```text
 Day 1
 #icarussquadron @IcarusSquadron @squadmate1 @squadmate2 @squadmate3
 
