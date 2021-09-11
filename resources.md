@@ -66,6 +66,7 @@
 - Icarus Expeditions - [https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
 - Icarus Squadrons - [https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
 - Icarus 1st Expedition Project Guidelines - [TBA](TBA)
+
 ---
 
 - Our own study group for the SOLHACK study group channel.
@@ -94,6 +95,7 @@
 
 - Solana's Developer Resources - [https://solana.com/developers](https://solana.com/developers)
 - ChangeHero brief introduction article - [https://changehero.io/blog/what-is-solana/](https://changehero.io/blog/what-is-solana/)
+- What's the deal with Solana - [https://2501babe.github.io/posts/solana101.html](https://2501babe.github.io/posts/solana101.html)
 - Solana's 8 Innovations - [https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
 - Solana Ecosystem - [https://solana.com/ecosystem](https://solana.com/ecosystem)
 - Solana Docs - [https://docs.solana.com/](https://docs.solana.com/)
@@ -159,6 +161,7 @@
 ---
 
 ### Rust Books & Websites
+
 - Rust Learning Resources by [Figment.io](http://figment.io) - [https://learn.figment.io/network-documentation/extra-guides/rust-learning-resources](https://learn.figment.io/network-documentation/extra-guides/rust-learning-resources)
 
 - Learn Rust - [https://www.rust-lang.org/learn](https://www.rust-lang.org/learn)
