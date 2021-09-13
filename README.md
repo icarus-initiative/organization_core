@@ -37,7 +37,7 @@ l# Icarus Initiative
 > What are the requirements to join the Icarus Iniative?
 
 - The developer must already have completed [Figment's Solana Protocol](https://learn.figment.io/protocols/solana), have some programming experience like javascript or python, and be willing to pioneer.
-- To get a better idea, get a sample of the minimum skills for the 1st project listed more in depth in the [1st_expedition_project_guidelines markdown](https://github.com/icarus-initiative/icarus_initiative).
+- To get a better idea, glance at the minimum skills for the [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_project_guildeline.md).
 
 > What's the cost of this initiative?
 
@@ -73,21 +73,22 @@ l# Icarus Initiative
 
 - A squad consisting of 4-6 members embark on expeditions to level up together. A squadron aims to build a recommended project and evaluating at least one course, video series, or code sets on an expedition.
 - There's many variables left up to the squad to decide if something more fitting including other projects, expedition length, additional resources, and any other innovative ideas.
-- At least one of the members will be the captain, who will delegate and serve as a representive for the squadron. It's recommended that there's 2 captains to make the squad flow with major hitches. They would help with merging PRs, gathering the group, and communicating with organization admins.
-- While there's the personal learning aspect, the social aspect will promote cohesion and cameraderie. We use various platforms that will be listed in the benefits section.
+- At least one of the members will be the captain, who will delegate and serve as a representive for the squadron. It's recommended that there's 2 captains to make the squad flow without major hitches. They would help with merging PRs, gathering the group, and communicating with organization admins.
+- While there's the personal learning aspect, the social aspect will promote cohesion and camaraderie. We use various platforms that will are listed in the benefits section. You can also tweet and hashtag [#icarussquadron](https://twitter.com/icarussquadron).
 
 - > How do I sign up for this initiative?
 
 - The initiative is being piloted right now to test drive the concept.
-- Once the concept is more established and battle-tested, the initiative will start to roll out.
+- Once the concept is more established and battle-tested, the initiative will start to rolling out in Q4 2021.
 - As planned, you can join as a pilot or captain. Eventually captains can advance to admin.
 
 > What are some of the methods of the organization?
 
-- Crowdsourcing can be a powerful force to help build the community that this initiative aims to harness and transmute into a platform for new learners.
-- The aim is not to make a set curriculum but rather one that can be flexible and adaptive to the community needs.
+- Crowdsourcing can be a powerful tool to help build the community.
+- The initiative aims to harness and transmute into a platform for new learners.
+- The aim is not to make a set curriculum but rather recommended projects and resources. The squadrons can adapt to new resources as desired.
 - A lot of the power is distributed to each squadron to as how they want to guide their own learning. The squadron comes together and validates ideas to contribute back to the initiative. Think of the Socratic method meet blockchain concepts.
-- Members, pilots, and captains are encouraged to take charge of their own learning, disseminate knowledge and experiences for future learners, and blazing a trail where there are none.
+- Members, pilots, and captains are encouraged to take charge of their own learning, disseminate knowledge and experiences for future learners, and blazing a trail where there were none.
 - These contributions can take various forms such as creating deliverables for consumption, helping to answer technical questions, or leading events.
 
 > Who do I contact about this initiative, comments, and proposals?
