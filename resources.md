@@ -19,7 +19,7 @@
 
 ### [Figment.io](http://figment.io) - The Learning Space to Start Learning Solana
 
-- Introducing: The Solana Learn Pathway Crowdcast Replay (1hr) - [https://www.youtube.com/watch?v=17XZK-ozg9U](https://www.youtube.com/watch?v=17XZK-ozg9U)
+- Introducing: The Solana Learn Pathway Crowdcast Replay 1st Edition (1hr) - [https://www.youtube.com/watch?v=17XZK-ozg9U](https://www.youtube.com/watch?v=17XZK-ozg9U)
 - Figment Learn (For Pathways, Learning different protocols, Specific Protocol resources, Dev documentation, Glossary for Beginners and much more) - [https://learn.figment.io/](https://learn.figment.io/)
 - Figment Forum (For FAQs, Troubleshooting Errors in Pathways, tech. discussion, posting tech. queries) - [https://community.figment.io/](https://community.figment.io/)
 - DataHub (the Web3 Gateway, to complete the pathways you'll need it) - [https://datahub.figment.io/](https://datahub.figment.io/)
@@ -65,12 +65,11 @@
 - Icarus Resources - [https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md](https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md)
 - Icarus Expeditions - [https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
 - Icarus Squadrons - [https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
-- Icarus 1st Expedition Project Guidelines - [TBA](TBA)
+- Icarus 1st Expedition Project Guidelines - [https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md](<[TBA](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)>)
 
 ---
 
-- Our own study group for the SOLHACK study group channel.
-- RSG Github Home - [https://github.com/icarus-initiative](https://github.com/icarus-initiative/icarus_iniative)
+- A depracated study group from the SOLHACK study group channel.
 - RSG Sessions Youtube Playlist - <https://www.youtube.com/playlist?list=PLdSTAoM_WxkpCjBHDWgGHycfmdjoKpNlt>
 - Adam's Slide - [https://hackmd.io/@adamisrusty/HJiHeKyRd](https://hackmd.io/@adamisrusty/HJiHeKyRd)
 - 2021 Jul 20
@@ -109,6 +108,12 @@
 - Unofficial Solana Blog - [https://solana.blog/](https://solana.blog/)
 
 ### Solana Learning - Articles and Youtube Videos
+
+- [Ignition Blastoff Stream | Hackathon Project Ideas](https://www.youtube.com/watch?v=bu6NhNINlfQ)
+- [Figment Solana Learn Pathway 2nd Edition](https://www.youtube.com/watch?v=0I8d0doTZuw)
+- [How to Anchor: An introduction to the Anchor Framework](https://www.youtube.com/watch?v=FmdPAwsqJC4)
+- [Mango Workshop](https://www.youtube.com/watch?v=acZiCt5pSJI)
+- [NFT / Metaplex Workshop](https://www.youtube.com/watch?v=GqXu8MfdEG4)
 
 - Solana Tutorial | Solana for Developers - [https://www.youtube.com/watch?v=qNIhClYDjR8](https://www.youtube.com/watch?v=qNIhClYDjR8)
 - Programming on Solana: An Introduction (Paul Schaaf) - [https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)

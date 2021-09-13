@@ -87,7 +87,7 @@ Day 1
 
 ### Project
 
-- Building a Smart Contract with time delayed escrow.
+- Visit the [2nd Expedition Smart Contracts Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/2nd_expedition_smart_contracts_guidelines.md)
 
 ### Resources
 
