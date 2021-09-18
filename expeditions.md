@@ -17,9 +17,17 @@
 - On the technology side, we build slowly on purpose with what's already familiar and give ample time for reading and learning the foundations of the blockchain. It also gives others to help the other pilots get up to speed about version control, file folder structuring, and any other common development processes in the industry. We aim to work with Solana SDKs like [solana-web3js](https://github.com/solana-labs/solana-web3.js). We will also use this project for our portfolio so make it nice! Use tools you haven't tried before as the only limit is you.
 - To see past projects, visit the a squad's repository, like [1st_squadron_core](https://github.com/icarus-initiative/1st_squadron_core) on the github organization.
 
+### Recommended Readings for 1st Expedition
+
+- [ChangeHero brief introduction article](https://changehero.io/blog/what-is-solana/)
+- [Figment: Why Build on Web 3?](https://docs.figment.io/introduction/why-build-on-web3)
+- [Getting Started with Solana Development](https://solana.com/news/getting-started-with-solana-development)
+- [Solana Summer](https://www.notboring.co/p/solana-summer)
+- [Blockchain at Berkeley Spring 2021](https://blockchain.berkeley.edu/courses/spring-2021-fundamentals-decal/)
+
 ### Project
 
-- Visit the [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)
+- [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)
 
 ### Resources
 
@@ -56,10 +64,9 @@
 
 ### Resource Pool
 
-1. [The Learn Rust book](https://www.rust-lang.org/learn)
-2. [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+1. [The Learn Rust book, through chapter 12](https://www.rust-lang.org/learn)
+2. [Let's Get Rusty, through video 28](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
 3. [Rustlings](https://www.rust-lang.org/learn)
-4. [Blockchain at Berkeley Spring 2021](https://blockchain.berkeley.edu/courses/spring-2021-fundamentals-decal/)
 
 ### Socials
 
@@ -84,6 +91,13 @@ Day 1
 
 - The goal now is to work together to build an identity solution and working between the squad members to test and verify. Now with everyone has built trust with working together and understanding each other's strengths, it's time to tackle bigger and bigger projects.
 - Technology-wise, the team progresses closer to the blockchain technologies and try out different frameworks and libraries. This will take exploration on the team's behalf to try out even newer technologies. It's time to step beyond the comfort zone.
+
+### Recommended Readings for 2nd Expedition
+
+- [Solana's 8 Innovations](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
+- [Solana Smart Contracts: Common Pitfalls and How to Avoid Them](https://blog.neodyme.io/posts/solana_common_pitfalls)
+- [ok so what the fuck is the deal with solana anyway](https://2501babe.github.io/posts/solana101.html)
+- [Solana Program Library](https://spl.solana.com/)
 
 ### Project
 
@@ -123,6 +137,12 @@ Day 1
     - CONS:
 
 ### Resource Pool
+
+- [The Learn Rust book, through end of book](https://www.rust-lang.org/learn)
+- [Let's Get Rusty, through latest video](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+- [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet)
+- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [dApp-scaffold](https://github.com/solana-labs/dapp-scaffold)
 
 ### Socials
 

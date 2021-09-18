@@ -4,8 +4,16 @@
 -
 - Welcome to an unofficial developer resource collection.
 - We are not associated with any groups (Solana, SOLHack, Figment.io).
-- We do hang out in SOLHACK #study-groups discord.
-- Recommended path to get started:
+- We like to hang out [Icarus Discord](https://discord.gg/9yYsQVYR3K)
+
+---
+
+## A Beginner's Guide
+
+- It's very easy to get overwhelmed with the amount of resources out there.
+- The best thing is to check out the expedition resources and recommended readings.
+- These resources have been vetted by other developers/pilots and appear in order of level.
+- Recommended path to get started: [Figment.io Solana Protocol](https://learn.figment.io/protocols/solana)
   - Solana Protocol on [figment.io](http://figment.io).
   - Read how KK's twitter thread on [learning Solana](https://twitter.com/karthikkalyan90/status/1394805514840596482).
   - The Learn [Rust book](https://doc.rust-lang.org/book/) paired with Rustlings on [rust-lang.org](https://www.rust-lang.org/learn).
@@ -14,6 +22,16 @@
 ---
 
 ## Learning Communities
+
+---
+
+### [Rust Study Group/Icarus Initiative](https://github.com/icarus-initiative/icarus_initiative) - A community-driven, iterative curriculum and group learning experience for learning Rust and Solana blockchain development
+
+- Icarus Readme - [https://github.com/icarus-initiative/icarus_initiative/blob/main/README.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/README.md)
+- Icarus Resources - [https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md](https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md)
+- Icarus Expeditions - [https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
+- Icarus Squadrons - [https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
+- Icarus 1st Expedition Project Guidelines - [https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md](<[TBA](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)>)
 
 ---
 
@@ -59,17 +77,7 @@
 
 ---
 
-### [Rust Study Group/Icarus Initiative](https://github.com/icarus-initiative/icarus_initiative) - A community-driven, iterative curriculum and group learning experience for learning Rust and Solana blockchain development
-
-- Icarus Readme - [https://github.com/icarus-initiative/icarus_initiative/blob/main/README.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/README.md)
-- Icarus Resources - [https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md](https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md)
-- Icarus Expeditions - [https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
-- Icarus Squadrons - [https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
-- Icarus 1st Expedition Project Guidelines - [https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md](<[TBA](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)>)
-
----
-
-- A depracated study group from the SOLHACK study group channel.
+- A deprecated study group from the SOLHACK study group channel.
 - RSG Sessions Youtube Playlist - <https://www.youtube.com/playlist?list=PLdSTAoM_WxkpCjBHDWgGHycfmdjoKpNlt>
 - Adam's Slide - [https://hackmd.io/@adamisrusty/HJiHeKyRd](https://hackmd.io/@adamisrusty/HJiHeKyRd)
 - 2021 Jul 20
@@ -109,11 +117,20 @@
 
 ### Solana Learning - Articles and Youtube Videos
 
-- [Ignition Blastoff Stream | Hackathon Project Ideas](https://www.youtube.com/watch?v=bu6NhNINlfQ)
-- [Figment Solana Learn Pathway 2nd Edition](https://www.youtube.com/watch?v=0I8d0doTZuw)
-- [How to Anchor: An introduction to the Anchor Framework](https://www.youtube.com/watch?v=FmdPAwsqJC4)
-- [Mango Workshop](https://www.youtube.com/watch?v=acZiCt5pSJI)
-- [NFT / Metaplex Workshop](https://www.youtube.com/watch?v=GqXu8MfdEG4)
+- **Ignition Hackathon Workshop Series**
+- [All SolanaTV Twitch Videos](https://www.twitch.tv/solanatv/videos?filter=all&sort=time)
+- [Ignition Blastoff Stream | Hackathon Project Ideas (47:32)](https://www.twitch.tv/videos/1137789063)
+- [Figment Solana Learn Pathway 2nd Edition (53:03)](https://www.twitch.tv/videos/1141746104)
+- [How to Anchor: An introduction to the Anchor Framework (1:15:24)](https://www.twitch.tv/videos/1142817871)
+- [Mango Workshop (1:14:48)](https://www.twitch.tv/videos/1143687434)
+- [NFT / Metaplex Workshop (1:03:50)](https://www.twitch.tv/videos/1144702694)
+- [Solnet Workshop (1:10:24)](https://www.twitch.tv/videos/1147556805)
+- [PsyOptions Workshop (1:07:29)](https://www.twitch.tv/videos/1147690238)
+- [Zeta Workshop (57:05)](https://www.twitch.tv/videos/1148393754)
+- [The Future of Blockchain Gaming (1:02:05)](https://www.twitch.tv/videos/1148629730)
+- [How to Use a Hosted Node Service to Scale Your Solana Project (24:56)](https://www.twitch.tv/videos/1149480135)
+- [Ignition Fireside Chat with Jeremy Allaire (57:37)](https://www.twitch.tv/videos/1150449331)
+- [Phantom Workshop (48:35)](https://www.twitch.tv/videos/1150562321)
 
 - Solana Tutorial | Solana for Developers - [https://www.youtube.com/watch?v=qNIhClYDjR8](https://www.youtube.com/watch?v=qNIhClYDjR8)
 - Programming on Solana: An Introduction (Paul Schaaf) - [https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
