@@ -1,10 +1,11 @@
 # Icarus Initiative - Expeditions
 
-- Document version 1.1 (2021-8-28)
-- The expeditions document is the ever-shifting curriculum that squadrons use.
+- Document version 1.2 (2021-9-18)
+- The expeditions document shows the expeditions a squad can take.
+- It also shows the resources that were voted in to the slots.
 
 - The [Solana protocol](https://learn.figment.io/protocols/solana) must have been completed prior to engaging in expeditions.
-- These are subject to change as squads cast votes.
+- These are subject to change as pilots cast votes.
 - More resources to be added to expeditions as squadrons progress...
 
 ---

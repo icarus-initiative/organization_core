@@ -1,6 +1,6 @@
 # Icarus Initiative - Resources
 
-- Document version 1.1 (2021-8-28)
+- Document version 1.2 (2021-9-18)
 -
 - Welcome to an unofficial developer resource collection.
 - We are not associated with any groups (Solana, SOLHack, Figment.io).
@@ -11,7 +11,7 @@
 ## A Beginner's Guide
 
 - It's very easy to get overwhelmed with the amount of resources out there.
-- The best thing is to check out the expedition resources and recommended readings.
+- The best thing is to check out the [expedition](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md) resources and recommended readings.
 - These resources have been vetted by other developers/pilots and appear in order of level.
 - Recommended path to get started: [Figment.io Solana Protocol](https://learn.figment.io/protocols/solana)
   - Solana Protocol on [figment.io](http://figment.io).
