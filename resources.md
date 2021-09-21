@@ -117,6 +117,7 @@
 - [Phantom Workshop (48:35)](https://www.twitch.tv/videos/1150562321)
 - [Investing in Crypto Startups Today (42:04)](https://www.twitch.tv/videos/1151452931)
 - [Chainlink Oracle (44:27)](https://www.twitch.tv/videos/1151662974)
+- [Exploring the Solana Ecosystem with Joe McCann (52:33)](https://www.twitch.tv/videos/1154477795)
 
 ### Solana Resources - Notable Tutorials
 
@@ -166,7 +167,8 @@
 - [Solana Developer List](https://twitter.com/therealchaseeb/status/1411035027585044482)
 - [Figment #opportunities channel on Discord](https://discord.com/invite/fszyM7K)
 - [SOLHACK #gig-board channel on Discord](https://discord.gg/yRaZ23DXxM)
-- [Jobs](https://jobs.solana.com/)
+- [Solana Jobs](https://jobs.solana.com/)
+- [Crypto Jobs List](https://cryptojobslist.com/)
 
 ---
 
