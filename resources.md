@@ -118,6 +118,7 @@
 - [Investing in Crypto Startups Today (42:04)](https://www.twitch.tv/videos/1151452931)
 - [Chainlink Oracle (44:27)](https://www.twitch.tv/videos/1151662974)
 - [Exploring the Solana Ecosystem with Joe McCann (52:33)](https://www.twitch.tv/videos/1154477795)
+- [Oracles Overview w/ HAPI (46:21)](https://www.twitch.tv/videos/1155227066)
 
 ### Solana Resources - Notable Tutorials
 
