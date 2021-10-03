@@ -2,7 +2,7 @@
 
 Tags: #icarus #1stexpedition #wallet #guidelines
 
-- Document version 1.1 (2021-09-07)
+- Document version 1.2 (2021-10-03)
 
 ---
 
@@ -36,6 +36,7 @@ Tags: #icarus #1stexpedition #wallet #guidelines
 
 ## Stretch User Stories
 
+- [ ] Stretch goal: deploy your project online.
 - [ ] Stretch goal: Use the [CoinGecko API](https://www.coingecko.com/en/api) to get the current price for your coins. Here are some fun pieces of data to pull.
 
 ```text

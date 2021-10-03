@@ -119,11 +119,18 @@
 - [Chainlink Oracle (44:27)](https://www.twitch.tv/videos/1151662974)
 - [Exploring the Solana Ecosystem with Joe McCann (52:33)](https://www.twitch.tv/videos/1154477795)
 - [Oracles Overview w/ HAPI (46:21)](https://www.twitch.tv/videos/1155227066)
+- [DeFi Alpha Leak (43:42)](https://www.twitch.tv/videos/1156896382)
+- [The good, bad, and ugly of crypto (1:00:10)](https://www.twitch.tv/videos/1160868877)
 
 ### Solana Resources - Notable Tutorials
 
 - [Programming Solana (Youtube - David Choi)](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
 - [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
+- [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
+- [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
+- [Solana - 8 Key Innovations Simplified and Analogized](https://hashnode.com/post/solana-8-key-innovations-simplified-and-analogized-cku5q6zeh0jdsp9s1f9tp6ch6)
+- [Anchor Framework simplified for new developers in Solana](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
+- [How to Build and Deploy a Solana Smart Contract](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
 - [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - [Project Serum Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
   - [Programming Solana Smart Contracts | Hello World Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=oD1umX_DnUw)
@@ -242,5 +249,4 @@
 - [Rust-conf](https://rustconf.com/)
 - [This Week in Rust](https://this-week-in-rust.org/)
 
-https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
-https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+---

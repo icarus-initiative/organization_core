@@ -2,13 +2,13 @@
 
 Tags: #icarus #2ndexpedition #smartcontracts #guidelines
 
-- Document version 1.0 (2021-09-11)
+- Document version 1.1 (2021-10-03)
 
 ---
 
 ## Introduction
 
-> The objective of the smart contract is to start working with the Solana SDK and smart contracts. We will work to make different types of smart contracts. The target one is to make a time delayed escrow transaction. After user A deposits a good and user B deposits currency, the program will release the items to the parties after a certain amount of time determined by the users (5 minutes, 1 hour, 1 day, etc).
+> The objective of the expedition is to work with smart contracts and Anchor framework. A potential project idea is to to make a time delayed escrow transaction. After user A deposits a good and user B deposits currency, the program will release the items to the parties after a certain amount of time determined by the users (5 minutes, 1 hour, 1 day, etc).
 
 ---
 
@@ -18,13 +18,26 @@ Tags: #icarus #2ndexpedition #smartcontracts #guidelines
 - [Basic Solana Docs Summary](https://2501babe.github.io/posts/solana101.html)
 - [Paulx Escrow Smart Contract Article](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 
+- [Programming Solana (Youtube - David Choi)](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
+- [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
+- [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
+- [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
+- [Solana - 8 Key Innovations Simplified and Analogized](https://hashnode.com/post/solana-8-key-innovations-simplified-and-analogized-cku5q6zeh0jdsp9s1f9tp6ch6)
+- [Anchor Framework simplified for new developers in Solana](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
+- [How to Build and Deploy a Solana Smart Contract](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
+- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [Project Serum Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
+- [Programming Solana Smart Contracts | Hello World Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=oD1umX_DnUw)
+- [Programming Solana Smart Contracts | Intermediate Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
+- [A Simple Solana Dapp Tutorial (Smith MCF)](https://smith-mcf.medium.com/a-simple-solana-dapp-tutorial-6dedbdf65444)
+
 ---
 
 ## Minimum User Stories
 
 - [ ] Building a Smart Contract with time delayed escrow.
 - [ ] User A can deposit a good (jpg or something else) into the escrow.
-- [ ] User B can deposite lamports into the escrow.
+- [ ] User B can deposit lamports into the escrow.
 - [ ] After a fixed duration determined by both parties, the items are released to opposite sides.
 
 ---
