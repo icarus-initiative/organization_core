@@ -23,7 +23,7 @@
 - [Website](https://icarusinitiative.net/)
 - [Github](https://github.com/icarus-initiative)
 - [Discord](https://discord.gg/9yYsQVYR3K)
-- [Discourse]()
+- [Discourse](https://forums.icarusinitiative.net/)
 - [Youtube](https://www.youtube.com/channel/UCTurxUPFKUZARHQkihpMAfg)
 - [Twitter](https://twitter.com/icarussquadron)
 
@@ -158,7 +158,7 @@
 - [x] Create a website.
   - Have logins, interactive features, etc on the website.
   - Gamify the process to display account achievements.
-- [ ] Create a forum system.
+- [x] Create a forum system.
   - [Discourse](https://www.discourse.org/).
 
 ### Scaling
@@ -180,10 +180,10 @@
 
 - [x] Github - host project/group project, organization notes
 - [x] Discord - to communicate between squadmates
-- [ ] Discourse - knowledge hub and forum
+- [x] Discourse - knowledge hub and forum
 - [x] Twitter - for daily motivation, progress updates, and fun interactions
-- LinkedIn - to professionally network and bolster their online reputation
-- Datahub - to use as a blockchain backend
+- [x] LinkedIn - to professionally network and bolster their online reputation
+- [x] Datahub - to use as a blockchain backend
 
 ---
 
