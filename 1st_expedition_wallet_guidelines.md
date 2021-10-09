@@ -2,7 +2,7 @@
 
 Tags: #icarus #1stexpedition #wallet #guidelines
 
-- Document version 1.2 (2021-10-03)
+- Document version 1.3 (2021-10-08)
 
 ---
 
@@ -36,7 +36,13 @@ Tags: #icarus #1stexpedition #wallet #guidelines
 
 ## Stretch User Stories
 
-- [ ] Stretch goal: deploy your project online.
+- [ ] Stretch goal: deploy your project online to github pages, netlify, or vercel.
+  - Use these links to help you deploy if you're doing create-react-app and gh-pages.
+  - [Clyde D'Souza Article](https://codeburst.io/deploying-a-react-app-using-github-pages-and-github-actions-7fc14d380796)
+  - [Clyde D'Souza Repo](https://github.com/ClydeDz/create-react-app-ghpages-demo/tree/step-5)
+  - [Clyde D'Souza Demo](https://clydedz.github.io/create-react-app-ghpages-demo/)
+  - [Otik's Repo](https://github.com/timh1203/ragnarok_wallet)
+  - [Otik's Demo](https://timh1203.github.io/ragnarok_wallet/)
 - [ ] Stretch goal: Use the [CoinGecko API](https://www.coingecko.com/en/api) to get the current price for your coins. Here are some fun pieces of data to pull.
 
 ```text
