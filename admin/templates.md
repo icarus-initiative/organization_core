@@ -83,7 +83,7 @@
 - [FILL ME IN]
 
 - [EXAMPLES]
-- [Ragnarok Wallet by otik](https://github.com/timh1203/ragnarok_wallet)
+- [Ragnarok Wallet by otik](https://github.com/timOTdev/ragnarok_wallet)
 - [Test Wallet by Mysticis](https://github.com/mysticis/test-wallet)
 - [Solana Svelte Wallet by silvestrevivo](https://github.com/silvestrevivo/solana-svelte-wallet)
 

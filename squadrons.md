@@ -13,14 +13,15 @@
   - Primary Zones: NA and EMEA
   - [Squadron Core Page](https://github.com/icarus-initiative/1st_squadron_core) for projects and status.
 
-  | Preferred Name | Country | Time Zone | Discord       | Twitter                                                | GitHub                                                    | LinkedIn                                                             | Expedition Count |
-  | -------------- | ------- | --------- | ------------- | ------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------------- | ---------------- |
-  | Tim            | USA     | UTC-5     | otik          | [timh1203](https://twitter.com/timh1203)               | [timh1203](https://github.com/timh1203)                   | [timothyhoang](https://www.linkedin.com/in/timothyhoang/)            | 1                |
-  | Joe            | Nigeria | UTC+1     | son_of_man    | N/A                                                    | [mysticis](https://github.com/mysticis)                   | N/A                                                                  | 1                |
-  | Silvestre      | EU      | UTC+1     | silvestrevivo | [silvestrevivo](https://twitter.com/silvestrevivo)     | [silvestrevivo](https://github.com/silvestrevivo)         | [silvestrevivo](https://www.linkedin.com/in/silvestre-vivo-1a6843bb) | 1                |
-  | Former Members |         |           |               |                                                        |                                                           |                                                                      |                  |
-  | Nearly         | USA     | UTC-4     | Nearly        | [NearlyNeverHere](https://twitter.com/NearlyNeverHere) | [NearlyAlwaysThere](https://github.com/NearlyAlwaysThere) | N/A                                                                  | 0                |
-  | James          | USA     | UTC-5     | jamesscaggs   | [jamesscaggs](https://twitter.com/jamesscaggs)         | [jamesscaggs](https://github.com/jamesscaggs)             | [jamesscaggs](https://www.linkedin.com/in/jamesscaggs)               | 0                |
+  | Preferred Name   | Country | Time Zone | Discord       | Twitter                                                | GitHub                                                    | LinkedIn                                                             | Expedition Count |
+  | ---------------- | ------- | --------- | ------------- | ------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------------- | ---------------- |
+  | Tim              | USA     | UTC-5     | otik          | [timOTdev](https://twitter.com/timOTdev)               | [timOTdev](https://github.com/timOTdev)                   | [timothyhoang](https://www.linkedin.com/in/timothyhoang/)            | 1                |
+  | Joe              | Nigeria | UTC+1     | son_of_man    | N/A                                                    | [mysticis](https://github.com/mysticis)                   | N/A                                                                  | 1                |
+  | Silvestre        | EU      | UTC+1     | silvestrevivo | [silvestrevivo](https://twitter.com/silvestrevivo)     | [silvestrevivo](https://github.com/silvestrevivo)         | [silvestrevivo](https://www.linkedin.com/in/silvestre-vivo-1a6843bb) | 1                |
+  | James            | USA     | UTC-5     | jamesLock86   |                                                        | --------------------------------------------------------- |                                                                      | 0                |
+  | Previous Members |         |           |               |                                                        |                                                           |                                                                      |                  |
+  | Nearly           | USA     | UTC-4     | Nearly        | [NearlyNeverHere](https://twitter.com/NearlyNeverHere) | [NearlyAlwaysThere](https://github.com/NearlyAlwaysThere) | N/A                                                                  | 0                |
+  | James            | USA     | UTC-5     | jamesscaggs   | [jamesscaggs](https://twitter.com/jamesscaggs)         | [jamesscaggs](https://github.com/jamesscaggs)             | [jamesscaggs](https://www.linkedin.com/in/jamesscaggs)               | 0                |
 
 - **Expeditions**
 

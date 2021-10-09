@@ -41,8 +41,8 @@ Tags: #icarus #1stexpedition #wallet #guidelines
   - [Clyde D'Souza Article](https://codeburst.io/deploying-a-react-app-using-github-pages-and-github-actions-7fc14d380796)
   - [Clyde D'Souza Repo](https://github.com/ClydeDz/create-react-app-ghpages-demo/tree/step-5)
   - [Clyde D'Souza Demo](https://clydedz.github.io/create-react-app-ghpages-demo/)
-  - [Otik's Repo](https://github.com/timh1203/ragnarok_wallet)
-  - [Otik's Demo](https://timh1203.github.io/ragnarok_wallet/)
+  - [Otik's Repo](https://github.com/timotdev/ragnarok_wallet)
+  - [Otik's Demo](https://timotdev.github.io/ragnarok_wallet/)
 - [ ] Stretch goal: Use the [CoinGecko API](https://www.coingecko.com/en/api) to get the current price for your coins. Here are some fun pieces of data to pull.
 
 ```text
