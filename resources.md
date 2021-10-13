@@ -121,6 +121,7 @@
 - [Oracles Overview w/ HAPI (46:21)](https://www.twitch.tv/videos/1155227066)
 - [DeFi Alpha Leak (43:42)](https://www.twitch.tv/videos/1156896382)
 - [The good, bad, and ugly of crypto (1:00:10)](https://www.twitch.tv/videos/1160868877)
+- [The Future of Decentralized Exchange (43:52)](https://www.twitch.tv/videos/1167823908)
 
 ### Solana Resources - Notable Tutorials
 
@@ -156,6 +157,8 @@
   - [Metaplex Tutorial](https://solana.blog/solana-metaplex-tutorial-deploy-your-own-store-mint-nfts-and-setup-auctions/)
   - [Repository](https://github.com/metaplex-foundation/metaplex)
   - [Metaplex Developer Guide](https://www.notion.so/Metaplex-Developer-Guide-afefbc19841744c28587ab948a08cfac)
+- [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
+  - [Anchor Discord](discord.gg/PDeRXyVURd.)
 - [Oyster Swap](https://github.com/solana-labs/oyster-swap)
 - [Solana JSON](https://github.com/jamesbachini/Solana-JSON)
 - [Valholla](https://github.com/JohnRSim/valholla)
