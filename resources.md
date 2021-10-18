@@ -107,21 +107,27 @@
 - [Figment Solana Learn Pathway 2nd Edition (53:03)](https://www.twitch.tv/videos/1141746104) (Recommended)
 - [How to Anchor: An introduction to the Anchor Framework (1:15:24)](https://www.twitch.tv/videos/1142817871) (Recommended)
 - [Mango Workshop (1:14:48)](https://www.twitch.tv/videos/1143687434)
+
 - [NFT / Metaplex Workshop (1:03:50)](https://www.twitch.tv/videos/1144702694) (Recommended)
 - [Solnet Workshop (1:10:24)](https://www.twitch.tv/videos/1147556805)
 - [PsyOptions Workshop (1:07:29)](https://www.twitch.tv/videos/1147690238)
 - [Zeta Workshop (57:05)](https://www.twitch.tv/videos/1148393754)
 - [The Future of Blockchain Gaming (1:02:05)](https://www.twitch.tv/videos/1148629730)
+
 - [How to Use a Hosted Node Service to Scale Your Solana Project (24:56)](https://www.twitch.tv/videos/1149480135)
 - [Ignition Fireside Chat with Jeremy Allaire (57:37)](https://www.twitch.tv/videos/1150449331)
 - [Phantom Workshop (48:35)](https://www.twitch.tv/videos/1150562321)
 - [Investing in Crypto Startups Today (42:04)](https://www.twitch.tv/videos/1151452931)
 - [Chainlink Oracle (44:27)](https://www.twitch.tv/videos/1151662974)
+
 - [Exploring the Solana Ecosystem with Joe McCann (52:33)](https://www.twitch.tv/videos/1154477795)
 - [Oracles Overview w/ HAPI (46:21)](https://www.twitch.tv/videos/1155227066)
 - [DeFi Alpha Leak (43:42)](https://www.twitch.tv/videos/1156896382)
 - [The good, bad, and ugly of crypto (1:00:10)](https://www.twitch.tv/videos/1160868877)
 - [The Future of Decentralized Exchange (43:52)](https://www.twitch.tv/videos/1167823908)
+
+- [Mango DAO Demo (1:12:18)](https://www.twitch.tv/videos/1175529445)
+- [Forte + Solana | Josh Williams and Anatoly Yakovenko (56:48)](https://www.twitch.tv/videos/1177521560)
 
 ### Solana Resources - Notable Tutorials
 
