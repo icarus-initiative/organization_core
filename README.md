@@ -1,6 +1,6 @@
 # Icarus Initiative
 
-- Document version 1.2 (2021-9-18)
+- Document version 1.3 (2021-10-17)
 
 - The about document explains what Icarus is about.
 - The `README.md` is the entry point for this repo.
@@ -14,7 +14,7 @@
 
 - The Icarus Initiative is not affiliated with Solana, SOLHACK, or any other entity. This is a community-driven learning initiative to promote group study and creating a better learning experience for newcomers.
 - There is no promise of a job or that you will become a senior Rust/Solana/Blockchain developer as you progress through. Life gives you what ultimately put in.
-- This initiative is not perfect but at least a starting point and hopefully become a better one with time and group effort.
+- This initiative is not perfect and evolves in time with what the community defines it to be.
 
 ---
 
@@ -40,7 +40,7 @@
 > What are the requirements to join the Icarus Iniative?
 
 - The developer must already have completed [Figment's Solana Protocol](https://learn.figment.io/protocols/solana), have some programming experience like javascript or python, and be willing to pioneer.
-- To get a better idea, glance at the minimum skills for the [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_project_guildeline.md).
+- To get a better idea, glance at the minimum skills for the [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md).
 
 > What's the cost of this initiative?
 
@@ -67,9 +67,8 @@
 
 - _Roles Available_
   - _Member_ - A member of the community who wishes to observe or is looking to join/create a squad.
-  - _Pilot_ - Active learners who embark on learning expeditions by building recommended projects and evaluating different resources.
-  - Pilots are required to have completed Figment's Solana Pathway before starting the 1st expedition.
-  - _Captain_ - Takes more of a leadership role in a squadron by merging PRs, organizing the groups, capturing squad members thoughts & concerns, communicating with admins to build out the curriculum further. Captains are obviously pilots also because they are leading their squad on the expedition.
+  - _Pilot_ - Active learners who embark on learning expeditions by building recommended projects and evaluating different resources. Pilots are required to have completed Figment's Solana Pathway before starting the 1st expedition.
+  - _Captain_ - are also pilots but take more of a leadership role in a squadron by merging PRs, organizing the groups, capturing squad members thoughts & concerns, communicating with admins to build out the curriculum further.
   - _Admin_ - Set up systems and infrastructure for squads and the organization, optimize systems to demystify knowledge and make more accessible, and handle any public relations.
 
 > How to squadrons briefly work?
@@ -81,8 +80,8 @@
 
 > How do I sign up for this initiative?
 
-- The initiative is being piloted right now to test drive the concept.
-- Once the concept is more established and battle-tested, the initiative will start to rolling out in Q4 2021.
+- Head over to the [Discord Channel](https://discord.gg/9yYsQVYR3K) and use the `#start-here` or say hello in `#general`.
+- Depending on the roles mentioned above, you'll see different instructions how to get started.
 
 > What are some of the methods of the organization?
 
@@ -103,13 +102,13 @@
 
 - Icarus Initiative (Icarus for short) is a community-driven, iterative curriculum and group learning experience for learning Rust and Solana blockchain development. It involves waves of small teams, called **squadrons** consisting of **pilots**. Each squadron can have from 4 pilots up to 6 pilots max. Squads iterate through **expeditions** (aka sprints, phases, etc) where they will build a project and evaluate at least 1 of the listed resource or a newer resource. The squad decides together what they will evaluate and more resources are encouraged if time permits. Projects and resources are not locked in and could potentially shift if the squad makes votes.
 - **The project aspect**: reading is not the same as doing. Working to build a real project and more practical come time for the job hunt and helps keep your github green. The first project can be individual but it's recommended to build together for future projects thereafter. The squad element adds an accountability factor and the camaraderie will hopefully make the experience pleasurable. There will always be someone ahead of you and someone behind you...well except the 1st squadron. 🙂
-- **The resource aspect**: There can be a max of 10 resources slots per expedition.
-- This positional scarcity will make it so only the highest quality of resources remain in the list.
-- In short, pilots will receive tokens that they can vote resources into the open slots for expeditions.
-- Pilots gain tokens through completing expeditions for now but future ideas will come.
-- There will be a set of core expeditions but hopefully there will be elective expeditions created by users.
-- The resource list scarcity and the ability to cast votes makes each vote hold more weight.
-- The curriculum gets better as more iterations have passed and the higher value resources will be funneled to the appropriate expedition to match skill against challenge and also ranked within the lists. The sequence of the resource matters as the ones higher on the list is deemed more content valuable.
+- **The resource aspect**: There can be a max of 5 resources slots per expedition.
+  - This positional scarcity will make it so only the highest quality of resources remain in the list.
+  - In short, pilots will receive tokens that they can vote resources into the open slots for expeditions.
+  - Pilots gain tokens through completing expeditions for now but future ideas will come.
+  - There will be a set of core expeditions but hopefully there will be elective expeditions created by users.
+  - The resource list scarcity and the ability to cast votes makes each vote hold more weight.
+  - The curriculum gets better as more iterations have passed and the higher value resources will be funneled to the appropriate expedition to match skill against challenge and also ranked within the lists. The sequence of the resource matters as the ones higher on the list is deemed more content valuable.
 - **The social aspect:** having teammates to discuss and ask questions about the concurrent material helps cohesion. Social media interactions help foster friendship and build a reputation in the online community. LinkedIn and Github helps establish professional connections and domain visibility. Twitter is a place to have a faster, agile way to interact with the developer community. Tweeting at [#icarussquadron](https://twitter.com/icarussquadron) and your squadmates is fun to see when others are tweeting their progress.
 - What is the initiative name derived from? See [https://en.wikipedia.org/wiki/Icarus](https://en.wikipedia.org/wiki/Icarus).
 
@@ -158,7 +157,8 @@
 - [x] Create a website.
   - Have logins, interactive features, etc on the website.
   - Gamify the process to display account achievements.
-- [x] Create a forum system.
+- [x] Create a communication platform with Discord.
+- [ ] Create a forum system.
   - [Discourse](https://www.discourse.org/).
 
 ### Scaling

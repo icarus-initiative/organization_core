@@ -1,4 +1,4 @@
-# Icarus Initiative - 1st Expedition Solana Program Guidelines
+# Icarus Initiative - 2nd Expedition Solana Program Guidelines
 
 Tags: #icarus #2ndexpedition #smartcontracts #guidelines
 
@@ -7,6 +7,8 @@ Tags: #icarus #2ndexpedition #smartcontracts #guidelines
 ---
 
 ## Introduction
+
+- ** The complete guideline to come and currently incomplete.**
 
 > The objective of the expedition is to work with smart contracts (called Programs in Solana) and Anchor framework. A potential project idea is to to make a time delayed escrow transaction. After user A deposits a good and user B deposits currency, the program will release the items to the parties after a certain amount of time determined by the users (5 minutes, 1 hour, 1 day, etc).
 

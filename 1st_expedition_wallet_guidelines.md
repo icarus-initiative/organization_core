@@ -21,6 +21,9 @@ Tags: #icarus #1stexpedition #wallet #guidelines
 - If you don't meet the minimum, you will have difficulties moving past the first expedition and beyond.
 - You really should be taking basic web development courses instead of joining this initiative. There are many platforms such as FreeCodeCamp, Udemy, or other beginner courses.
 
+- Want to see some examples?
+- See Wallet Github Links for [1st Squadron Core](https://github.com/icarus-initiative/1st_squadron_core).
+
 ---
 
 ## Minimum User Stories
