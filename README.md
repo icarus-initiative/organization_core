@@ -39,7 +39,8 @@
 
 > What are the requirements to join the Icarus Iniative?
 
-- The developer must already have completed [Figment's Solana Protocol](https://learn.figment.io/protocols/solana), have some programming experience like javascript or python, and be willing to pioneer.
+- The developer is recommened to have already completed [Figment's Solana Protocol](https://learn.figment.io/protocols/solana). This will warm you up for the expeditions. It shouldn't take more than a couple hours.
+- Also recommended to have some programming experience like javascript or python. We don't cover programming basics here, there are better places for that.
 - To get a better idea, glance at the minimum skills for the [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md).
 
 > What's the cost of this initiative?
@@ -69,7 +70,7 @@
   - _Member_ - A member of the community who wishes to observe or is looking to join/create a squad.
   - _Pilot_ - Active learners who embark on learning expeditions by building recommended projects and evaluating different resources. Pilots are required to have completed Figment's Solana Pathway before starting the 1st expedition.
   - _Captain_ - are also pilots but take more of a leadership role in a squadron by merging PRs, organizing the groups, capturing squad members thoughts & concerns, communicating with admins to build out the curriculum further.
-  - _Admin_ - Set up systems and infrastructure for squads and the organization, optimize systems to demystify knowledge and make more accessible, and handle any public relations.
+  - _Commander_ - Set up systems and infrastructure for squads and the organization, optimize systems to demystify knowledge and make more accessible, and handle any public relations.
 
 > How to squadrons briefly work?
 

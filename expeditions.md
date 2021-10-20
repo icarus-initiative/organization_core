@@ -106,10 +106,19 @@ Day 1
 
 ### Resource Pool
 
+- [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
+- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
+- [Project Serum Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
+- [Programming Solana Smart Contracts | Hello World Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=oD1umX_DnUw)
+- [Programming Solana Smart Contracts | Intermediate Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
 - [The Learn Rust book, 16 to book end](https://www.rust-lang.org/learn)
 - [Let's Get Rusty, through latest video](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
-- [Hello World Example](https://github.com/solana-labs/example-helloworld)
-- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [A Simple Solana Dapp Tutorial (Smith MCF)](https://smith-mcf.medium.com/a-simple-solana-dapp-tutorial-6dedbdf65444)
+- [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
+- [Anchor Framework simplified for new developers in Solana](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
+- [Solana - 8 Key Innovations Simplified and Analogized](https://hashnode.com/post/solana-8-key-innovations-simplified-and-analogized-cku5q6zeh0jdsp9s1f9tp6ch6)
+- [Programming Solana (Youtube - David Choi)](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
 - [dApp-scaffold](https://github.com/solana-labs/dapp-scaffold)
 - [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet)
 
