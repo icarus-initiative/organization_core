@@ -1,23 +1,37 @@
 # Icarus Initiative - Resources
 
-- Document version 1.3 (2021-9-19)
+- Document version 1.4 (2021-10-21)
 
 - Welcome to an unofficial developer resource collection.
 - We are not associated with any groups (Solana, SOLHack, Figment.io).
-- We like to hang out [Icarus Discord](https://discord.gg/9yYsQVYR3K)
+- We like to hang out on [Icarus Discord](https://discord.gg/9yYsQVYR3K).
 
 ---
 
-## A Beginner's Guide
+## Quick Start Guide to Learning
 
 - It's very easy to get overwhelmed with the amount of resources out there.
-- The best thing is to check out the [expedition](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md) resources and recommended readings.
-- These resources have been vetted by other developers/pilots and appear in order of level.
-- Recommended path to get started: [Figment.io Solana Protocol](https://learn.figment.io/protocols/solana)
-  - Solana Protocol on [figment.io](http://figment.io).
-  - Read how KK's twitter thread on [learning Solana](https://twitter.com/karthikkalyan90/status/1394805514840596482).
-  - The Learn [Rust book](https://doc.rust-lang.org/book/) paired with Rustlings on [rust-lang.org](https://www.rust-lang.org/learn).
-  - Youtube videos alternative pairing option on [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8).
+- Take a breath. Learn one new thing a day. Focus on big concepts, then later go deeper.
+
+- Beginner Level:
+
+  - Start with [Figment's Solana Protocol](https://learn.figment.io/protocols/solana).
+  - Read [Solana Summer](https://www.notboring.co/p/solana-summer) to understand general Solana ecosystem.
+  - Read [What's the deal with Solana](https://2501babe.github.io/posts/solana101.html) to understand some of the technical.
+  - Learn some Rust. It's going to start popping up.
+  - Like videos? Watch [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8).
+  - Like books? Read [Learn Rust book](https://doc.rust-lang.org/book/) paired with
+  - Like exercises? Do Rustlings on [rust-lang.org](https://www.rust-lang.org/learn) or [Codewars](https://www.codewars.com/).
+  - Like group learning? Check out the Learning Communities below.
+  - Want more well-rounded intro? See [Berkeley Courses](https://blockchain.berkeley.edu/), try Fundamental or Developer ones.
+
+- Intermediate Level:
+
+  - [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
+  - [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+  - [Programming on Solana: An Introduction (Paul Schaaf)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+
+- Another approach is building projects and consuming resources with [Expeditions](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md) as a group or solo.
 
 ---
 
@@ -45,16 +59,28 @@
 
 ### [Figment.io](http://figment.io) - Friendly Solana Protocol Tutorial and Datahub Introduction
 
+- [Figment Discord](https://discord.com/invite/fszyM7K)
 - [Introducing: The Solana Learn Pathway Crowdcast Replay 1st Edition (1hr)](https://www.youtube.com/watch?v=17XZK-ozg9U)
 - [Figment Learn](https://learn.figment.io/)
 - [Figment Forum (For FAQs, Troubleshooting Errors in Pathways, tech. discussion, posting tech. queries)](https://community.figment.io/)
 - [DataHub (the Web3 Gateway, to complete the pathways you'll need it)](https://datahub.figment.io/)
 - Figment YouTube (For previous event recordings, pathway videos, intro videos etc.) -[https://www.youtube.com/channel/UCW8jHuPqYLE6bYFR30aGg9Q
-- [Figment Discord](https://discord.com/invite/fszyM7K)
 - [Tutorials](https://learn.figment.io/figment-learn/all-tutorials)
 - [Solana Pathway](https://learn.figment.io/protocols/solana)
   - [SOLANA Learn Pathway Tutorial Series (Figment Learn)](https://www.youtube.com/playlist?list=PLkgTdjgP1aUAiqqbvVi3b0sSdxByd5KSX)
 - [Solana Figment Articles](https://figment.io/resources/category/solona/)
+
+---
+
+### [Buildspace](https://buildspace.so/)
+
+- [Discord](https://discord.gg/mXDqs6Ubcc)
+
+---
+
+### [Questbook](https://www.questbook.app/)
+
+- [Discord](https://discord.com/invite/g9MGWEeq5Z)
 
 ---
 
@@ -239,10 +265,10 @@
 - Blockchain at Berkeley - Additional Free Blockchain Courses
   - [Starter](https://figment.io/resources/blockchain-at-berkeley-partners-with-figment-on-web-3-learning/)
   - [Courses](https://blockchain.berkeley.edu/)
-    - [Bitcoin and Cryptocurrencies EdX](https://www.edx.org/course/bitcoin-and-cryptocurrencies)
-    - [Blockchain Technology edX](https://www.edx.org/course/blockchain-technology)
     - [Blockchain Fundamentals Decal](https://blockchain.berkeley.edu/courses/spring-2021-fundamentals-decal/)
     - [Blockchain Developers Decal](https://blockchain.berkeley.edu/courses/spring-2021-developers-decal/)
+    - [Bitcoin and Cryptocurrencies EdX](https://www.edx.org/course/bitcoin-and-cryptocurrencies)
+    - [Blockchain Technology edX](https://www.edx.org/course/blockchain-technology)
   - [Consensys Academy](https://consensys.net/academy/)
   - [Chainshot (Ethereum Specific)](https://www.chainshot.com/)
   - [Blockchain and Money (Gary Gensler)](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/)
