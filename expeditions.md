@@ -4,7 +4,7 @@
 - The expeditions document shows the expeditions a squad can take.
 - It also shows the resources that were voted in to the slots.
 
-- The [Solana protocol](https://learn.figment.io/protocols/solana) must have been completed prior to engaging in expeditions.
+- The [Figment Solana protocol](https://learn.figment.io/protocols/solana) must have been completed prior to engaging in expeditions.
 - These are subject to change as pilots cast votes.
 - More resources to be added to expeditions as squadrons progress...
 
