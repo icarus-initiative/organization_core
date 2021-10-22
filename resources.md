@@ -3,33 +3,38 @@
 - Document version 1.4 (2021-10-21)
 
 - Welcome to an unofficial developer resource collection.
-- We are not associated with any groups (Solana, SOLHack, Figment.io).
-- We like to hang out on [Icarus Discord](https://discord.gg/9yYsQVYR3K).
+- Trying to update and trim document constantly to the best resources.
+- Questions & Comments? Holler at [Icarus Discord](https://discord.gg/9yYsQVYR3K).
 
 ---
 
-## Quick Start Guide to Learning
+## Learning Solana/Rust Battle Plan (Quick Start)
 
 - It's very easy to get overwhelmed with the amount of resources out there.
-- Take a breath. Learn one new thing a day. Focus on big concepts, then later go deeper.
+- Take a breath. Learn one new thing a day. Focus on big concepts, then depth later.
+- Battle-tested over at [Icarus Initiative](https://icarusinitiative.net). Sequentially ordered. Skip ahead at cost of own sanity.😉
+- Get PDF with clickable links: [Icarus Battle Plan PDF](https://github.com/icarus-initiative/icarus_initiative/blob/main/admin/icarus_battle_plan.md).
 
 - Beginner Level:
 
   - Start with [Figment's Solana Protocol](https://learn.figment.io/protocols/solana).
-  - Read [Solana Summer](https://www.notboring.co/p/solana-summer) to understand general Solana ecosystem.
-  - Read [What's the deal with Solana](https://2501babe.github.io/posts/solana101.html) to understand some of the technical.
+  - Read [Solana Summer](https://www.notboring.co/p/solana-summer) for general Solana ecosystem.
+  - Read [What's the deal with Solana](https://2501babe.github.io/posts/solana101.html) for some technicals.
   - Learn some Rust. It's going to start popping up.
   - Like videos? Watch [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8).
-  - Like books? Read [Learn Rust book](https://doc.rust-lang.org/book/) paired with
+  - Like CliffNotes? Check [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/).
   - Like exercises? Do Rustlings on [rust-lang.org](https://www.rust-lang.org/learn) or [Codewars](https://www.codewars.com/).
-  - Like group learning? Check out the Learning Communities below.
-  - Want more well-rounded intro? See [Berkeley Courses](https://blockchain.berkeley.edu/), try Fundamental or Developer ones.
+  - Like books? Read [Learn Rust book](https://doc.rust-lang.org/book/).
+  - Like group learning? Check [Learning Communities](https://github.com/icarus-initiative/icarus_initiative/blob/main/resources.md).
+  - Like building projects? Check [Beginner Projects](https://github.com/icarus-initiative/icarus_initiative/blob/main/projects.md).
+  - Want general blockchain? Visit [Berkeley Courses](https://blockchain.berkeley.edu/).
+    - Try Fundamental or Developer Decal.
 
 - Intermediate Level:
 
   - [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
-  - [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
-  - [Programming on Solana: An Introduction (Paul Schaaf)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+  - [The Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+  - [Programming on Solana: An Introduction (Escrow)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 
 - Another approach is building projects and consuming resources with [Expeditions](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md) as a group or solo.
 
@@ -44,7 +49,6 @@
 - [Website](https://icarusinitiative.net/)
 - [Github](https://github.com/icarus-initiative)
 - [Discord](https://discord.gg/9yYsQVYR3K)
-- [Discourse]()
 - [Youtube](https://www.youtube.com/channel/UCTurxUPFKUZARHQkihpMAfg)
 - [Twitter](https://twitter.com/icarussquadron)
 
@@ -52,6 +56,7 @@
 - [Icarus Resources](https://github.com/icarus-initiative/icarus_iniative/blob/main/resources.md)
 - [Icarus Expeditions](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
 - [Icarus Squadrons](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
+- [Icarus Projects](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
 - [Icarus 1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)
 - [Icarus 2nd Expedition Smart Contracts Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/2nd_expedition_smart_contracts_guidelines.md)
 
@@ -108,25 +113,27 @@
 
 ---
 
-### Solana Resources- General Introduction
+### Solana General Introduction
 
 - [Solana Core Concepts (Community Video)](https://www.youtube.com/watch?v=4dNuMXBjpr0)
+- [Soldev.app (Resource Aggregator)](https://www.soldev.app/)
 - [Solana Summer Article](https://www.notboring.co/p/solana-summer)
 - [Solana's Developer Resources](https://solana.com/developers)
 - [ChangeHero brief introduction article](https://changehero.io/blog/what-is-solana/)
 - [Solana Ecosystem](https://solana.com/ecosystem)
 - [Solana Docs](https://docs.solana.com/)
 - [Solana Podcast](https://podcast.solana.com/)
-  - [Solana Overview with Greg Fitzgerald Ep #1](https://podcast.solana.com/episodes/how-does-solana-work)
-  - [How Solana Works with Anatoly Yakovenko Ep #2](https://podcast.solana.com/episodes/what-is-solana)
-  - [Tour de SOL Primer with Eric Williams Ep #3](https://podcast.solana.com/episodes/what-is-tour-de-sol)
 - [Unofficial Solana Blog](https://solana.blog/)
-- [KK's Twitter Learning Thread](https://twitter.com/karthikkalyan90/status/1394805514840596482)
-- [Solana's 8 Innovations](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
-- [What's the deal with Solana](https://2501babe.github.io/posts/solana101.html)
-- [Solana Smart Contracts: Common Pitfalls and How to Avoid Them](https://blog.neodyme.io/posts/solana_common_pitfalls)
 
-### Solana Resources - Ignition Hackathon Workshop Series
+### Solana Careers
+
+- [Solana Developer List](https://twitter.com/therealchaseeb/status/1411035027585044482)
+- [Figment #opportunities channel on Discord](https://discord.com/invite/fszyM7K)
+- [SOLHACK #gig-board channel on Discord](https://discord.gg/yRaZ23DXxM)
+- [Solana Jobs](https://jobs.solana.com/)
+- [Crypto Jobs List](https://cryptojobslist.com/)
+
+### Solana Ignition Hackathon Workshop Series
 
 - [All SolanaTV Twitch Videos](https://www.twitch.tv/solanatv/videos) (Recommended)
 - [Ignition Blastoff Stream | Hackathon Project Ideas (47:32)](https://www.twitch.tv/videos/1137789063) (Recommended)
@@ -134,11 +141,11 @@
 - [How to Anchor: An introduction to the Anchor Framework (1:15:24)](https://www.twitch.tv/videos/1142817871) (Recommended)
 - [Mango Workshop (1:14:48)](https://www.twitch.tv/videos/1143687434)
 
-- [NFT / Metaplex Workshop (1:03:50)](https://www.twitch.tv/videos/1144702694) (Recommended)
+- [NFT / Metaplex Workshop (1:03:50)](https://www.twitch.tv/videos/1144702694) (Recommended for NFT enthusiasts)
 - [Solnet Workshop (1:10:24)](https://www.twitch.tv/videos/1147556805)
 - [PsyOptions Workshop (1:07:29)](https://www.twitch.tv/videos/1147690238)
 - [Zeta Workshop (57:05)](https://www.twitch.tv/videos/1148393754)
-- [The Future of Blockchain Gaming (1:02:05)](https://www.twitch.tv/videos/1148629730)
+- [The Future of Blockchain Gaming (1:02:05)](https://www.twitch.tv/videos/1148629730) (Recommended for GameFi enthusiasts)
 
 - [How to Use a Hosted Node Service to Scale Your Solana Project (24:56)](https://www.twitch.tv/videos/1149480135)
 - [Ignition Fireside Chat with Jeremy Allaire (57:37)](https://www.twitch.tv/videos/1150449331)
@@ -152,66 +159,83 @@
 - [The good, bad, and ugly of crypto (1:00:10)](https://www.twitch.tv/videos/1160868877)
 - [The Future of Decentralized Exchange (43:52)](https://www.twitch.tv/videos/1167823908)
 
-- [Mango DAO Demo (1:12:18)](https://www.twitch.tv/videos/1175529445)
+- [Mango DAO Demo (1:12:18)](https://www.twitch.tv/videos/1175529445) (Recommended for DAO enthusiasts)
 - [Forte + Solana | Josh Williams and Anatoly Yakovenko (56:48)](https://www.twitch.tv/videos/1177521560)
 
-### Solana Resources - Notable Tutorials
+---
 
+## Solana Learning Tracks
+
+---
+
+### General Solana Track
+
+- [Example Hello World](https://github.com/solana-labs/example-helloworld)
+- [Solana dApp scaffold](https://github.com/solana-labs/dapp-scaffold)
+- [Wallet Adapter](https://github.com/solana-labs/wallet-adapter)
+- [Web3.js SDK](https://github.com/solana-labs/solana-web3.js)
 - [Programming Solana (Youtube - David Choi)](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
 - [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
 - [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
 - [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
 - [Solana - 8 Key Innovations Simplified and Analogized](https://hashnode.com/post/solana-8-key-innovations-simplified-and-analogized-cku5q6zeh0jdsp9s1f9tp6ch6)
-- [Anchor Framework simplified for new developers in Solana](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
-- [How to Build and Deploy a Solana Smart Contract](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
-- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
-- [Project Serum Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
-  - [Programming Solana Smart Contracts | Hello World Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=oD1umX_DnUw)
-- [Programming Solana Smart Contracts | Intermediate Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
-- [A Simple Solana Dapp Tutorial (Smith MCF)](https://smith-mcf.medium.com/a-simple-solana-dapp-tutorial-6dedbdf65444)
-- [Solana Tutorial | Solana for Developers](https://www.youtube.com/watch?v=qNIhClYDjR8)
+- [Solana's 8 Innovations](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
+
+### Smart Contracts Track (aka Solana Programs)
+
+- [What's the deal with Solana](https://2501babe.github.io/posts/solana101.html)
+- [Solana: How to send custom instructions via instruction data](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
 - [Programming on Solana: An Introduction (Paul Schaaf)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
-- [Solana Dapp Tutorial - Demo 1.6](https://odysee.com/@MCF:0/Solana-Simple-Dapp-Tutorial-Deploy-Demo:2)
+- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [Create a fullstack mail dApp on Solana (Figment)](https://learn.figment.io/tutorials/create-a-fullstack-mail-dapp-on-solana)
+- [How to Build and Deploy a Solana Smart Contract](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
+- [Solana Smart Contracts: Common Pitfalls and How to Avoid Them](https://blog.neodyme.io/posts/solana_common_pitfalls)
 
-### Solana Resources - Notable Repositories
+### Anchor Track
 
-- [Solana Labs](https://github.com/solana-labs)
-- [Web3.js SDK](https://github.com/solana-labs/solana-web3.js)
-  - [Examples](https://github.com/solana-labs/solana/tree/master/web3.js/examples)
-- [Example Hello World](https://github.com/solana-labs/example-helloworld)
-- [Solana dApp scaffold](https://github.com/solana-labs/dapp-scaffold)
-- [Wallet Adapter](https://github.com/solana-labs/wallet-adapter)
-- [Solana Season](https://github.com/solana-labs/solana-season)
+- [Anchor Example: Escrow Program](https://hackmd.io/@ironaddicteddog/anchor_example_escrow)
+- [Anchor Framework simplified for new developers in Solana](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
+-
 
-### Solana Resources - Notable Projects
+- [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
+  - [Anchor Discord](discord.gg/PDeRXyVURd.)
+- [Programming Solana Smart Contracts | Hello World Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=oD1umX_DnUw)
+- [Programming Solana Smart Contracts | Intermediate Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
 
+### DAOs Track
+
+- [A Simple Solana Dapp Tutorial (Voting Dapp by Smith MCF)](https://smith-mcf.medium.com/a-simple-solana-dapp-tutorial-6dedbdf65444)
+- [Solana Dapp Tutorial - Demo 1.6 (Voting Dapp)](https://odysee.com/@MCF:0/Solana-Simple-Dapp-Tutorial-Deploy-Demo:2)
+
+### NFTs Track
+
+- [Solana and Metaplex FAQ](https://hackmd.io/@archaeopteryx/By4bpbA4F)
+- [Create a Solana NFT marketplace and mint NFTs using Metaplex (Figment)](https://learn.figment.io/tutorials/create-a-solana-nft-marketplace-with-metaplex)
+- [Solseum NFT Generator for Solana!](https://hackmd.io/@Solseum/HJEfeFDNt)
 - [Metaplex](https://www.metaplex.com/)
   - [Metaplex Tutorial](https://solana.blog/solana-metaplex-tutorial-deploy-your-own-store-mint-nfts-and-setup-auctions/)
   - [Repository](https://github.com/metaplex-foundation/metaplex)
   - [Metaplex Developer Guide](https://www.notion.so/Metaplex-Developer-Guide-afefbc19841744c28587ab948a08cfac)
-- [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
-  - [Anchor Discord](discord.gg/PDeRXyVURd.)
-- [Oyster Swap](https://github.com/solana-labs/oyster-swap)
-- [Solana JSON](https://github.com/jamesbachini/Solana-JSON)
-- [Valholla](https://github.com/JohnRSim/valholla)
-- [Serenity Discord Bot](https://github.com/serenity-rs/serenity)
-- [Whitehat Discord Bot](https://github.com/bergabman/WhiteHatBot)
+- [Metaplex Candy Machine + Custom SPL Token](https://docs.google.com/document/d/1ZJsbLJXKCAqUsOU6a0Jk-yOuSYi-uOMYdQZIILGsvxE/edit)
+- [Metaboss](https://github.com/samuelvanderwaal/metaboss)
+- [Guide to Airdrop Using Metaplex](https://hackmd.io/@8LSEewFFQ2OwXMjUKZP-pA/HJ7jMxYEF)
 
-### Solana Resources - Solana Project Ideas
+### GameFi Track
 
-- If you missed it, here are all the current projects on [Solana ecosystem](https://solana.com/ecosystem)
 - [DeFi Hackathon](https://github.com/solana-labs/defi-hackathon/)
 - [Solana Game Projects](https://github.com/murlokito/awesome-solana-gaming)
-- [Decentology](https://dappstarter.decentology.com/)
-  - [Customizing Your DappStarter Project ‒ Quick Wins](https://www.decentology.com/guides-and-tutorials/quick-wins-customizing-dappstarter-project)
 
-### Solana Careers - Find Job Opportunities
+### DeFi Track
 
-- [Solana Developer List](https://twitter.com/therealchaseeb/status/1411035027585044482)
-- [Figment #opportunities channel on Discord](https://discord.com/invite/fszyM7K)
-- [SOLHACK #gig-board channel on Discord](https://discord.gg/yRaZ23DXxM)
-- [Solana Jobs](https://jobs.solana.com/)
-- [Crypto Jobs List](https://cryptojobslist.com/)
+- [Oyster Swap](https://github.com/solana-labs/oyster-swap)
+
+### Mobile Track
+
+- [Valholla](https://github.com/JohnRSim/valholla)
+
+### Utility Track
+
+- [Solana JSON](https://github.com/jamesbachini/Solana-JSON)
 
 ---
 
@@ -221,7 +245,7 @@
 
 ### Rust Books & Websites
 
-- [Rust Learning Resources by [Figment.io](http://figment.io)](https://learn.figment.io/network-documentation/extra-guides/rust-learning-resources)
+- [Rust Learning Resources by Figment.io](https://learn.figment.io/network-documentation/extra-guides/rust-learning-resources)
 - [Learn Rust](https://www.rust-lang.org/learn)
   - [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
   - [The Rust Reference](https://doc.rust-lang.org/reference/index.html)
