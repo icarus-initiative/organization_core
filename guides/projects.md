@@ -1,8 +1,8 @@
 # Icarus Initiative - Projects
 
-- Document version 1.0 (2021-10-21)
+- Document Version 2021_10
 
-> Feel free to check out [Solana Learning Tracks](https://github.com/icarus-initiative/icarus_initiative/blob/main/resources.md) for additional links and projects.
+> Check out [Icarus Guides](https://github.com/timOTdev/icarus_initiative/tree/main/src) for Battles Plan and Learning Tracks.
 
 ---
 

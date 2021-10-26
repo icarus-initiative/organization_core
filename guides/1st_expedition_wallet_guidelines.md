@@ -1,8 +1,8 @@
 # Icarus Initiative - 1st Expedition Wallet Guidelines
 
-Tags: #icarus #1stexpedition #wallet #guidelines
+- Document Version 2021_10
 
-- Document version 1.3 (2021-10-08)
+Tags: #icarus #1stexpedition #wallet #guidelines #guides
 
 ---
 

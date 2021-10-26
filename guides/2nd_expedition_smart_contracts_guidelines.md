@@ -1,8 +1,8 @@
 # Icarus Initiative - 2nd Expedition Solana Program Guidelines
 
-Tags: #icarus #2ndexpedition #smartcontracts #guidelines
+- Document Version 2021_10
 
-- Document version 1.2 (2021-10-08)
+Tags: #icarus #2ndexpedition #smartcontracts #guidelines #guides
 
 ---
 
