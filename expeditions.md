@@ -1,6 +1,7 @@
 # Icarus Initiative - Expeditions
 
-- Document version 1.2 (2021-9-18)
+- Document Version 2021_10
+
 - The expeditions document shows the expeditions a squad can take.
 - It also shows the resources that were voted in to the slots.
 

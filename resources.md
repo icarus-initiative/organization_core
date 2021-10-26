@@ -1,19 +1,24 @@
 # Icarus Initiative - Resources
 
-- Document version 1.4 (2021-10-21)
+- Document Version 2021_10
 
 - Welcome to an unofficial developer resource collection.
 - Trying to update and trim document constantly to the best resources.
-- Questions & Comments? Holler at [Icarus Discord](https://discord.gg/9yYsQVYR3K).
+- Please tweet `@icarussquadron` for comments/suggestions/corrections. You're appreciated!
+- Other questions & comments? Holler at admins on [Icarus Discord](https://discord.gg/9yYsQVYR3K).
 
 ---
 
 ## Learning Solana/Rust Battle Plan (Quick Start)
 
+> Links provided below graphic.
+
+<img src="./guides/learning_solana_rust_battle_plan.png" alt="Banner" width="1000"/>
+
 - It's very easy to get overwhelmed with the amount of resources out there.
 - Take a breath. Learn one new thing a day. Focus on big concepts, then depth later.
 - Battle-tested over at [Icarus Initiative](https://icarusinitiative.net). Sequentially ordered. Skip ahead at cost of own sanity.😉
-- Get PDF with clickable links: [Icarus Battle Plan PDF](https://github.com/icarus-initiative/icarus_initiative/blob/main/admin/icarus_battle_plan.md).
+- Get PDF with clickable links: [Learning Solana Rust Battle Plan PDF](https://github.com/icarus-initiative/icarus_initiative/blob/main/learning_solana_rust_battle_plan.pdf).
 
 - Beginner Level:
 
@@ -44,6 +49,21 @@
 
 ---
 
+### [Figment.io](http://figment.io) - Friendly Solana Protocol Tutorial and Datahub Introduction
+
+- [Figment Discord](https://discord.com/invite/fszyM7K)
+- [Introducing: The Solana Learn Pathway Crowdcast Replay 1st Edition (1hr)](https://www.youtube.com/watch?v=17XZK-ozg9U)
+- [Figment Learn](https://learn.figment.io/)
+- [Figment Forum (For FAQs, Troubleshooting Errors in Pathways, tech. discussion, posting tech. queries)](https://community.figment.io/)
+- [DataHub (the Web3 Gateway, to complete the pathways you'll need it)](https://datahub.figment.io/)
+- Figment YouTube (For previous event recordings, pathway videos, intro videos etc.) -[https://www.youtube.com/channel/UCW8jHuPqYLE6bYFR30aGg9Q
+- [Tutorials](https://learn.figment.io/figment-learn/all-tutorials)
+- [Solana Pathway](https://learn.figment.io/protocols/solana)
+  - [SOLANA Learn Pathway Tutorial Series (Figment Learn)](https://www.youtube.com/playlist?list=PLkgTdjgP1aUAiqqbvVi3b0sSdxByd5KSX)
+- [Solana Figment Articles](https://figment.io/resources/category/solona/)
+
+---
+
 ### [Icarus Initiative](https://github.com/icarus-initiative/icarus_initiative) - A Crowdsourced Solana/Rust Learning Initiative
 
 - [Website](https://icarusinitiative.net/)
@@ -59,21 +79,6 @@
 - [Icarus Projects](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
 - [Icarus 1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)
 - [Icarus 2nd Expedition Smart Contracts Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/2nd_expedition_smart_contracts_guidelines.md)
-
----
-
-### [Figment.io](http://figment.io) - Friendly Solana Protocol Tutorial and Datahub Introduction
-
-- [Figment Discord](https://discord.com/invite/fszyM7K)
-- [Introducing: The Solana Learn Pathway Crowdcast Replay 1st Edition (1hr)](https://www.youtube.com/watch?v=17XZK-ozg9U)
-- [Figment Learn](https://learn.figment.io/)
-- [Figment Forum (For FAQs, Troubleshooting Errors in Pathways, tech. discussion, posting tech. queries)](https://community.figment.io/)
-- [DataHub (the Web3 Gateway, to complete the pathways you'll need it)](https://datahub.figment.io/)
-- Figment YouTube (For previous event recordings, pathway videos, intro videos etc.) -[https://www.youtube.com/channel/UCW8jHuPqYLE6bYFR30aGg9Q
-- [Tutorials](https://learn.figment.io/figment-learn/all-tutorials)
-- [Solana Pathway](https://learn.figment.io/protocols/solana)
-  - [SOLANA Learn Pathway Tutorial Series (Figment Learn)](https://www.youtube.com/playlist?list=PLkgTdjgP1aUAiqqbvVi3b0sSdxByd5KSX)
-- [Solana Figment Articles](https://figment.io/resources/category/solona/)
 
 ---
 
@@ -181,7 +186,7 @@
 - [Solana - 8 Key Innovations Simplified and Analogized](https://hashnode.com/post/solana-8-key-innovations-simplified-and-analogized-cku5q6zeh0jdsp9s1f9tp6ch6)
 - [Solana's 8 Innovations](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
 
-### Smart Contracts Track (aka Solana Programs)
+### Smart Contracts Track (FYI Solana Smart Contracts are called Programs)
 
 - [What's the deal with Solana](https://2501babe.github.io/posts/solana101.html)
 - [Solana: How to send custom instructions via instruction data](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
@@ -195,8 +200,6 @@
 
 - [Anchor Example: Escrow Program](https://hackmd.io/@ironaddicteddog/anchor_example_escrow)
 - [Anchor Framework simplified for new developers in Solana](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
--
-
 - [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
   - [Anchor Discord](discord.gg/PDeRXyVURd.)
 - [Programming Solana Smart Contracts | Hello World Anchor Tutorial (Youtube - HenryE)](https://www.youtube.com/watch?v=oD1umX_DnUw)
@@ -265,6 +268,7 @@
 ### Rust Youtube Channels
 
 - [Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+  - [Let's Get Rusty Cheatsheet](https://letsgetrusty.com/)
 - [John Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
 - [Rust Programming Language Playlist (Youtube - dcode)](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=2)
 - [How To Build a Simple API in Rust (Part 1)](https://hackernoon.com/how-to-build-a-simple-api-in-rust-part-1-eg2037oo)
