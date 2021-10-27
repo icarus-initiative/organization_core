@@ -66,7 +66,7 @@
 | --------------- | ------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------- |
 | [FILL ME IN]    | [FILL ME IN]                                                                                                        | [FILL ME IN] | [FILL ME IN]         |
 | [EXAMPLE BELOW] | ------------------------------------------------------------------------------------------------------------------- | ------       | -------------------- |
-| 1st             | [DeFi Wallet](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md) | open         | Each pilot makes own |
+| 1st             | [DeFi Wallet](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/1st_expedition_wallet_guidelines.md) | open         | Each pilot makes own |
 
 ---
 

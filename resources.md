@@ -1,5 +1,7 @@
 # Icarus Initiative - Resources
 
+<img src="./src/banner.jpg" alt="Banner" width="1000"/>
+
 - Document Version 2021_10
 
 - Welcome to an unofficial developer resource collection.
@@ -11,14 +13,13 @@
 
 ## Learning Solana/Rust Battle Plan (Quick Start)
 
-> Links provided below graphic.
-
 <img src="./guides/learning_solana_rust_battle_plan.png" alt="Banner" width="1000"/>
+
+> Get PDF with clickable links: [Learning Solana Rust Battle Plan PDF](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/learning_solana_rust_battle_plan.pdf).
 
 - It's very easy to get overwhelmed with the amount of resources out there.
 - Take a breath. Learn one new thing a day. Focus on big concepts, then depth later.
 - Battle-tested over at [Icarus Initiative](https://icarusinitiative.net). Sequentially ordered. Skip ahead at cost of own sanity.😉
-- Get PDF with clickable links: [Learning Solana Rust Battle Plan PDF](https://github.com/icarus-initiative/icarus_initiative/blob/main/learning_solana_rust_battle_plan.pdf).
 
 - Beginner Level:
 
@@ -56,7 +57,7 @@
 - [Figment Learn](https://learn.figment.io/)
 - [Figment Forum (For FAQs, Troubleshooting Errors in Pathways, tech. discussion, posting tech. queries)](https://community.figment.io/)
 - [DataHub (the Web3 Gateway, to complete the pathways you'll need it)](https://datahub.figment.io/)
-- Figment YouTube (For previous event recordings, pathway videos, intro videos etc.) -[https://www.youtube.com/channel/UCW8jHuPqYLE6bYFR30aGg9Q
+- [Figment YouTube (For previous event recordings, pathway videos, intro videos etc)](https://www.youtube.com/channel/UCW8jHuPqYLE6bYFR30aGg9Q)
 - [Tutorials](https://learn.figment.io/figment-learn/all-tutorials)
 - [Solana Pathway](https://learn.figment.io/protocols/solana)
   - [SOLANA Learn Pathway Tutorial Series (Figment Learn)](https://www.youtube.com/playlist?list=PLkgTdjgP1aUAiqqbvVi3b0sSdxByd5KSX)
@@ -77,8 +78,8 @@
 - [Icarus Expeditions](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
 - [Icarus Squadrons](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
 - [Icarus Projects](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
-- [Icarus 1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)
-- [Icarus 2nd Expedition Smart Contracts Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/2nd_expedition_smart_contracts_guidelines.md)
+- [Icarus 1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/1st_expedition_wallet_guidelines.md)
+- [Icarus 2nd Expedition Smart Contracts Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/2nd_expedition_smart_contracts_guidelines.md)
 
 ---
 
@@ -105,6 +106,8 @@
   - [Article](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Building Solana Smart Contracts & dApps with James Bachini](https://solhack.com/courses/building-solana-smart-contracts-dapps-with-james-bachini/)
 - [Solana Security – Audit Workshop by Solend](https://solhack.com/courses/solana-security-audit-workshop-by-solend/)
+
+---
 
 ### Community Contributed
 
@@ -133,8 +136,8 @@
 ### Solana Careers
 
 - [Solana Developer List](https://twitter.com/therealchaseeb/status/1411035027585044482)
-- [Figment #opportunities channel on Discord](https://discord.com/invite/fszyM7K)
-- [SOLHACK #gig-board channel on Discord](https://discord.gg/yRaZ23DXxM)
+- [Figment `#opportunities` channel on Discord](https://discord.com/invite/fszyM7K)
+- [SOLHACK `#gig-board channel` on Discord](https://discord.gg/yRaZ23DXxM)
 - [Solana Jobs](https://jobs.solana.com/)
 - [Crypto Jobs List](https://cryptojobslist.com/)
 
