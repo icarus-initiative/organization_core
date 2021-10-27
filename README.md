@@ -1,12 +1,11 @@
-# Icarus Initiative
+# Icarus Initiative - Readme
 
-- Document version 1.3 (2021-10-17)
+<img src="./src/banner.jpg" alt="Banner" width="1000"/>
 
-- The about document explains what Icarus is about.
-- The `README.md` is the entry point for this repo.
-  - [Expeditions](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md)
-  - [Squadrons](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md)
-  - [Resources](https://github.com/icarus-initiative/icarus_initiative/blob/main/resources.md)
+- Document Version 2021_10
+
+- The `README.md` is the entrypoint for this organization and repository.
+- The about document explains what the Icarus Initiave is about.
 
 ---
 
@@ -23,72 +22,68 @@
 - [Website](https://icarusinitiative.net/)
 - [Github](https://github.com/icarus-initiative)
 - [Discord](https://discord.gg/9yYsQVYR3K)
-- [Discourse](https://forums.icarusinitiative.net/)
 - [Youtube](https://www.youtube.com/channel/UCTurxUPFKUZARHQkihpMAfg)
 - [Twitter](https://twitter.com/icarussquadron)
 
 ---
-
-<img src="./src/banner.jpg" alt="Banner" width="1000"/>
 
 ## ❓ Introduction
 
 > What is the Icarus Iniative?
 
 - A zero-cost, crowdsource community of Rust/Solana learners that iteratively improves the curriculum by building projects, evaluating resources, and voting on curriculum development.
+- It's a malleable community that is shaped by its members and very open to improvements.
+- Admins are just facilitators to smooth the process for builders and learners.
 
 > What are the requirements to join the Icarus Iniative?
 
-- The developer is recommened to have already completed [Figment's Solana Protocol](https://learn.figment.io/protocols/solana). This will warm you up for the expeditions. It shouldn't take more than a couple hours.
-- Also recommended to have some programming experience like javascript or python. We don't cover programming basics here, there are better places for that.
-- To get a better idea, glance at the minimum skills for the [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md).
+- The developer is recommened to have already completed [Figment's Solana Protocol](https://learn.figment.io/protocols/solana). This will warm you up for the expeditions.
+- Also recommended to have some programming experience like javascript or python. We don't cover programming basics here as there are better places for that.
+- To get a better idea, glance at the minimum skills for the [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/1st_expedition_wallet_guidelines.md).
 
 > What's the cost of this initiative?
 
 - It's completely free and community-driven.
 - This community empower members to take the lead to help foster a learning community.
 - Each pilot contributes in their own way whether it's by voting, creating content, or sharing deliverables.
-- When you listen, you learn. When you talk, I learn. When either teaches, we both learn.
+- When you listen, you learn. When you talk, I learn. When you teach, we both learn.
 
 > What are the benefits of joining this initiative?
 
 - A passionate community to learn with.
-- It filters out the folks who are just mere dabblers.
 - Having an impactful voice to building the curriculum for future learners.
 - Earning domain visibility in the industry.
 - Making professional and personal connections.
 - Creating tangible projects to showcase.
-- Discourse to use as a forum and knowledge hub.
 - Discord for community interaction.
 - Github Organization for aggregating useful deliverables.
 - Twitter to socially interact with the online community.
-- Many other incentives, partnerships, and growth are planned.
+- Future growth is planned.
 
-> What role can I play in this initiative?
+> What role(s) can I play in this initiative?
 
-- _Roles Available_
-  - _Member_ - A member of the community who wishes to observe or is looking to join/create a squad.
-  - _Pilot_ - Active learners who embark on learning expeditions by building recommended projects and evaluating different resources. Pilots are required to have completed Figment's Solana Pathway before starting the 1st expedition.
-  - _Captain_ - are also pilots but take more of a leadership role in a squadron by merging PRs, organizing the groups, capturing squad members thoughts & concerns, communicating with admins to build out the curriculum further.
-  - _Commander_ - Set up systems and infrastructure for squads and the organization, optimize systems to demystify knowledge and make more accessible, and handle any public relations.
+- _Member_ - A member of the community who wishes to observe or is looking to join/create a squad.
+- _Pilot_ - Active learners who embark on learning expeditions by building recommended projects and evaluating different resources. Pilots are recommended to have completed Figment's Solana Pathway before starting the 1st expedition.
+- _Captain_ - are also pilots but take more of a leadership role in a squadron by merging PRs, organizing the groups, capturing squad members thoughts & concerns, communicating with admins to build out the curriculum further. They would help with merging PRs, gathering the group, and communicating with organization admins.
+- _Commander_ - Set up systems and infrastructure for squads and the organization, optimize systems to demystify knowledge and make content accessible, and handle any public relations.
 
 > How to squadrons briefly work?
 
-- A squad of 4-6 members embark on expeditions to level up together. A squadron aims to build a recommended project and evaluating at least one course, video series, or code sets on an expedition.
-- There's many variables left up to the squad to decide if something more fitting including other projects, expedition length, additional resources, and any other innovative ideas.
-- At least one of the members will be the captain, who will delegate and serve as a representative for the squadron. It's recommended that there's 2 captains to make the squad flow without major hitches. They would help with merging PRs, gathering the group, and communicating with organization admins.
-- While there's the personal learning aspect, the social aspect will promote cohesion and camaraderie. You can also tweet and hashtag [#icarussquadron](https://twitter.com/icarussquadron).
+- A squad of 4-6 members embark on expeditions to level up together. A squadron builds a recommended project and evaluating at least one course, video series, or code problem sets on an expedition.
+- There's many variables left up to squad interpretation. A squad might be in different time zones, have varying life responsibilities, have desires to pursue different projects/resources, and want to try new ideas.
+- At least one of the members will be the captain, who will delegate and serve as a representative for the squadron. It's recommended that there's 2 captains to make the squad flow smoother.
+- While there's the personal learning aspect, the social aspect will promote cohesion and camaraderie. Pilots are encouraged to tweet at [#icarussquadron](https://twitter.com/icarussquadron).
 
 > How do I sign up for this initiative?
 
-- Head over to the [Discord Channel](https://discord.gg/9yYsQVYR3K) and use the `#start-here` or say hello in `#general`.
+- Head over to the [Discord Channel](https://discord.gg/9yYsQVYR3K) and use the `#start-here` or say hello in `#general`. Please be patient at the `#entrance`.
 - Depending on the roles mentioned above, you'll see different instructions how to get started.
 
 > What are some of the methods of the organization?
 
 - Crowdsourcing can be a powerful tool to help build the community.
-- The initiative aims to harness and transmute into a platform for new learners.
-- The aim is not to make a set curriculum but rather recommended projects and resources. The squadrons can adapt to new resources as desired.
+- The initiative aims to harness and transmute this energy into a platform for new learners.
+- The aim is not to make a set curriculum but kept purposely malleable to accomodate rising demands.
 - A lot of the power is distributed to each squadron to as how they want to guide their own learning. The squadron comes together and validates ideas to contribute back to the initiative. Think of the Socratic method meet blockchain concepts.
 - Members, pilots, and captains are encouraged to take charge of their own learning, disseminate knowledge and experiences for future learners, and blazing a trail where there were none.
 - These contributions can take various forms such as voting on resources, creating deliverables for consumption, helping to answer technical questions, or leading events.
@@ -99,7 +94,57 @@
 
 ---
 
-## 🧭 Purpose
+## 🔮 Improvement Proposals
+
+### General
+
+- [ ] Create a shortPoC video on youtube.
+- [ ] Organize the weekly virtual hangouts.
+
+### Curriculum
+
+- [ ] Implement learning tracks (DAOs, NFTS, Anchor, etc).
+- [ ] Create resource voting/token system.
+- [ ] Consult actual companies and see what they are looking for. Use job postings as guidance for now.
+- [ ] Create a feedback system to capture experiences after expeditions.
+- [ ] Create a formal process to update the curriculum.
+- [ ] Create an Expedition creation process.
+
+### Organization
+
+- [x] Create a website.
+  - Have logins, interactive features, etc on the website.
+  - Gamify the process to display account achievements.
+- [x] Create a communication platform with Discord.
+- [ ] Create a forum system.
+  - [Discourse](https://www.discourse.org/).
+
+### Scaling
+
+- [ ] Selection System on how new members are recruited.
+  - Idea 1 - Remove the selection process, have multiple squads instead of a single squad for a squadron, add divisions into the names like 22nd Squad Division A, and all 22nd squads can connect with 21st for mentorship and help.
+  - Idea 2 - Each member of a squad branches out to lead a new squad. This fan-like pattern is another option but most likely more intricate to implement.
+
+### Monetization
+
+- [ ] Community tokens rewards.
+- [ ] Wings NFTs for members who have completed expeditions. Provided by an expedition Project.
+- [ ] SOL Rewards for completing expeditions.
+
+---
+
+## ⚒ Platforms
+
+- [x] Github - host project/group project, organization notes
+- [x] Discord - to communicate between squadmates
+- [x] Discourse - knowledge hub and forum
+- [x] Twitter - for daily motivation, progress updates, and fun interactions
+- [x] LinkedIn - to professionally network and bolster their online reputation
+- [x] Datahub - to use as a blockchain backend
+
+---
+
+## 🧭 Purpose (Long-form)
 
 - Icarus Initiative (Icarus for short) is a community-driven, iterative curriculum and group learning experience for learning Rust and Solana blockchain development. It involves waves of small teams, called **squadrons** consisting of **pilots**. Each squadron can have from 4 pilots up to 6 pilots max. Squads iterate through **expeditions** (aka sprints, phases, etc) where they will build a project and evaluate at least 1 of the listed resource or a newer resource. The squad decides together what they will evaluate and more resources are encouraged if time permits. Projects and resources are not locked in and could potentially shift if the squad makes votes.
 - **The project aspect**: reading is not the same as doing. Working to build a real project and more practical come time for the job hunt and helps keep your github green. The first project can be individual but it's recommended to build together for future projects thereafter. The squad element adds an accountability factor and the camaraderie will hopefully make the experience pleasurable. There will always be someone ahead of you and someone behind you...well except the 1st squadron. 🙂
@@ -121,7 +166,7 @@
 
 ---
 
-## 🔬 Methods
+## 🔬 Methods (Long-form)
 
 - Each squadron:
   - Works to complete 1 project and evaluate at least 1 resource on each expedition. See each expedition for possible choices. If a group decides to add additional choices, a good starter list of resources can be found [here](https://github.com/icarus-initiative/icarus_initiative/blob/main/resources.md).
@@ -135,56 +180,7 @@
   - After expeditions, each squad use tokens to cast votes on where the evaluated resource(s) get placed in the most appropriate expedition(s).
   - After expeditions, pilots are encouraged to write a LinkedIn recommendation for squadmates about working on Icarus together. Upvote skills like rust, web 3.0, javascript, and whatever skills they've used in their projects. Connect with your squadmates if you haven't already done so. 🙂
   - After expeditions, squads will be recognized by the latter squad they've presented to and notify an admin to update the [squadrons.md](https://github.com/icarus-initiative/icarus_initiative/blob/main/squadrons.md) file by making a pull request notifying that the former squad succeeded in their expedition. It is the responsibility of latter squads to make the PR or notify admins for this.
-
----
-
-## 🔮 Improvement Proposals
-
-### General
-
-- [ ] Create a PoC video on youtube.
-- [ ] Organize the weekly virtual meetings.
-
-### Curriculum
-
-- [ ] Create resource voting system or token system.
-- [ ] Consult actual companies and see what they are looking for. Use job postings as guidance for now.
-- [ ] Create a feedback system to capture experiences after expeditions.
-- [ ] Create a process to update the curriculum.
-- [ ] Expedition creation process.
-
-### Organization
-
-- [x] Create a website.
-  - Have logins, interactive features, etc on the website.
-  - Gamify the process to display account achievements.
-- [x] Create a communication platform with Discord.
-- [ ] Create a forum system.
-  - [Discourse](https://www.discourse.org/).
-
-### Scaling
-
-- [ ] Selection System on how new members are recruited.
-  - Idea 1 - Remove the selection process, have multiple squads instead of a single squad for a squadron, add divisions into the names like 22nd Squad Division A, and all 22nd squads can connect with 21st for mentorship and help.
-  - Idea 2 - Each member of a squad branches out to lead a new squad. This fan-like pattern is another option but most likely more intricate to implement.
-
-### Monetization
-
-- [ ] Community tokens rewards.
-- [ ] Wings NFTs for members who have completed expeditions. Provided by an expedition Project.
-- [ ] Hats, T-shirts, and sunglasses rewards for reaching the 4th flight plan.
-- [ ] SOL Rewards for completing expeditions.
-
----
-
-## ⚒ Platforms
-
-- [x] Github - host project/group project, organization notes
-- [x] Discord - to communicate between squadmates
-- [x] Discourse - knowledge hub and forum
-- [x] Twitter - for daily motivation, progress updates, and fun interactions
-- [x] LinkedIn - to professionally network and bolster their online reputation
-- [x] Datahub - to use as a blockchain backend
+  -
 
 ---
 

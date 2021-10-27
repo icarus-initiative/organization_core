@@ -1,15 +1,15 @@
 # Icarus Initiative - Projects
 
-- Document version 1.0 (2021-10-21)
+- Document Version 2021_10
 
-> Feel free to check out [Solana Learning Tracks](https://github.com/icarus-initiative/icarus_initiative/blob/main/resources.md) for additional links and projects.
+> Check out [Icarus Guides](https://github.com/timOTdev/icarus_initiative/tree/main/guides) for Battle Plans and Learning Tracks.
 
 ---
 
 ## Beginner Projects
 
 - [Create a token on Solana (Figment)](https://learn.figment.io/tutorials/sol-mint-token)
-- [1st_expedition_wallet_guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)
+- [1st_expedition_wallet_guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/1st_expedition_wallet_guidelines.md)
 - [Solana: How to send custom instructions via instruction data](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
 - [Create a Solana NFT marketplace and mint NFTs using Metaplex (Figment)](https://learn.figment.io/tutorials/create-a-solana-nft-marketplace-with-metaplex)
 - [Solana Metaplex Tutorial – Deploy Your Own Store, Mint NFT’s and Setup Auctions! (Solana.blog)](https://solana.blog/solana-metaplex-tutorial-deploy-your-own-store-mint-nfts-and-setup-auctions/)

@@ -1,12 +1,15 @@
 # Icarus Initiative - Expeditions
 
-- Document version 1.2 (2021-9-18)
-- The expeditions document shows the expeditions a squad can take.
+<img src="./src/banner.jpg" alt="Banner" width="1000"/>
+
+- Document Version 2021_10
+
+- The expeditions document shows a path a squad can take.
 - It also shows the resources that were voted in to the slots.
 
-- The [Figment Solana protocol](https://learn.figment.io/protocols/solana) must have been completed prior to engaging in expeditions.
+- The [Figment Solana protocol](https://learn.figment.io/protocols/solana) is recommended to be completed prior to engaging in expeditions.
 - These are subject to change as pilots cast votes.
-- More resources to be added to expeditions as squadrons progress...
+- More resources to be added to expeditions as squadrons progress.
 
 ---
 
@@ -14,8 +17,9 @@
 
 ### Goal
 
+- On the technology side, we build slowly with tech that's familiar (like javascript or react) and sprinkle in new technology (web3.js API, datahub, solana concepts). This gives time for learning some Rust which is useful later on. For newer pilots, it allows for squad syncing up on concepts of version control, file folder structuring, and any other common development processes in the industry.
+- We aim to work with Solana SDKs like [solana-web3js](https://github.com/solana-labs/solana-web3.js) and [DataHub(https://datahub.figment.io/). We will also use this project for our portfolio so make it nice! Use tools you haven't tried before as the only limit is you.
 - The 1st expedition is about building relationships and trust within with your squad. This helps you connect with your teammates and adapt learning & communication styles. Hopefully, you'll build good relationships to work together on the next expeditions and compete in hack-a-thon's.
-- On the technology side, we build slowly on purpose with what's already familiar and give ample time for reading and learning the foundations of the blockchain. It also gives others to help the other pilots get up to speed about version control, file folder structuring, and any other common development processes in the industry. We aim to work with Solana SDKs like [solana-web3js](https://github.com/solana-labs/solana-web3.js). We will also use this project for our portfolio so make it nice! Use tools you haven't tried before as the only limit is you.
 - To see past projects, visit the a squad's repository, like [1st_squadron_core](https://github.com/icarus-initiative/1st_squadron_core), on the github organization.
 
 ### Recommended Readings for 1st Expedition
@@ -27,7 +31,7 @@
 
 ### Project
 
-- [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)
+- [1st Expedition Wallet Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/1st_expedition_wallet_guidelines.md)
 
 ### Resources
 
@@ -61,8 +65,9 @@
 ### Socials
 
 - Connect on Twitter, LinkedIn, Github with all the pilots in your squadron.
-- Tweet at your squadmates with progress and screenshots!
+- Tweet at your squadmates with progress and screenshots.
 - Here's a template you can get started with!
+- Now we can all see what everyone is [working on](https://twitter.com/hashtag/icarussquadron?src=hashtag_click).
 
 ```
 Day 1
@@ -94,7 +99,7 @@ Day 1
 
 ### Project
 
-- Visit the [2nd Expedition Smart Contracts Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/2nd_expedition_smart_contracts_guidelines.md)
+- Visit the [2nd Expedition Smart Contracts Guidelines](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/2nd_expedition_smart_contracts_guidelines.md)
 
 ### Resources
 
