@@ -17,12 +17,12 @@ Tags: #icarus #2ndexpedition #smartcontracts #guidelines #guides
 ## Briefing
 
 - Some recommended readings before you engage.
+- [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
 - [Basic Solana Docs Summary](https://2501babe.github.io/posts/solana101.html)
 - [Paulx Escrow Smart Contract Article](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 
 - [Programming Solana (Youtube - David Choi)](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
 - [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
-- [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
 - [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
 - [Solana - 8 Key Innovations Simplified and Analogized](https://hashnode.com/post/solana-8-key-innovations-simplified-and-analogized-cku5q6zeh0jdsp9s1f9tp6ch6)
 - [Anchor Framework simplified for new developers in Solana](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
