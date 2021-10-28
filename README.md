@@ -21,7 +21,7 @@
 
 - [Website](https://icarusinitiative.net/)
 - [Github](https://github.com/icarus-initiative)
-- [Discord](https://discord.gg/9yYsQVYR3K)
+- [Discord](https://discord.gg/D3kx72wJyv)
 - [Youtube](https://www.youtube.com/channel/UCTurxUPFKUZARHQkihpMAfg)
 - [Twitter](https://twitter.com/icarussquadron)
 
@@ -76,7 +76,7 @@
 
 > How do I sign up for this initiative?
 
-- Head over to the [Discord Channel](https://discord.gg/9yYsQVYR3K) and use the `#start-here` or say hello in `#general`. Please be patient at the `#entrance`.
+- Head over to the [Discord Channel](https://discord.gg/D3kx72wJyv) and use the `#start-here` or say hello in `#general`. Please be patient at the `#entrance`.
 - Depending on the roles mentioned above, you'll see different instructions how to get started.
 
 > What are some of the methods of the organization?
@@ -90,7 +90,7 @@
 
 > Who do I contact about this initiative, comments, and proposals?
 
-- Reach out to an admin on the [Discord Channel](https://discord.gg/9yYsQVYR3K).
+- Reach out to an admin on the [Discord Channel](https://discord.gg/D3kx72wJyv).
 
 ---
 

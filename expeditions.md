@@ -18,7 +18,7 @@
 ### Goal
 
 - On the technology side, we build slowly with tech that's familiar (like javascript or react) and sprinkle in new technology (web3.js API, datahub, solana concepts). This gives time for learning some Rust which is useful later on. For newer pilots, it allows for squad syncing up on concepts of version control, file folder structuring, and any other common development processes in the industry.
-- We aim to work with Solana SDKs like [solana-web3js](https://github.com/solana-labs/solana-web3.js) and [DataHub(https://datahub.figment.io/). We will also use this project for our portfolio so make it nice! Use tools you haven't tried before as the only limit is you.
+- We aim to work with Solana SDKs like [solana-web3js](https://github.com/solana-labs/solana-web3.js) and DataHub(https://datahub.figment.io/). We will also use this project for our portfolio so make it nice! Use tools you haven't tried before as the only limit is you.
 - The 1st expedition is about building relationships and trust within with your squad. This helps you connect with your teammates and adapt learning & communication styles. Hopefully, you'll build good relationships to work together on the next expeditions and compete in hack-a-thon's.
 - To see past projects, visit the a squad's repository, like [1st_squadron_core](https://github.com/icarus-initiative/1st_squadron_core), on the github organization.
 

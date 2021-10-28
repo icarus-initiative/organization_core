@@ -7,7 +7,7 @@
 - Welcome to an unofficial developer resource collection.
 - Trying to update and trim document constantly to the best resources.
 - Please tweet `@icarussquadron` for comments/suggestions/corrections. You're appreciated!
-- Other questions & comments? Holler at admins on [Icarus Discord](https://discord.gg/9yYsQVYR3K).
+- Other questions & comments? Holler at admins on [Icarus Discord](https://discord.gg/D3kx72wJyv).
 
 ---
 
@@ -69,7 +69,7 @@
 
 - [Website](https://icarusinitiative.net/)
 - [Github](https://github.com/icarus-initiative)
-- [Discord](https://discord.gg/9yYsQVYR3K)
+- [Discord](https://discord.gg/D3kx72wJyv)
 - [Youtube](https://www.youtube.com/channel/UCTurxUPFKUZARHQkihpMAfg)
 - [Twitter](https://twitter.com/icarussquadron)
 
