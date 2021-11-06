@@ -38,9 +38,9 @@
 
 - Intermediate Level:
 
-  - [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
-  - [The Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
-  - [Programming on Solana: An Introduction (Escrow)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+  - [A Gentle Introduction to Solana (Kirima)](https://kirima.vercel.app/post/gentleintrosolana)
+  - [The Complete Guide to Full Stack Solana Development (Dabit)](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+  - [Programming on Solana: An Introduction with Escrow (Paulx)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 
 - Another approach is building projects and consuming resources with [Expeditions](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md) as a group or solo.
 
@@ -135,6 +135,7 @@
 
 ### Solana Ignition Hackathon Workshop Series
 
+- [Solana Ignition Hackathon Winners](https://solana.com/news/solana-ignition-hackathon-winners)
 - [Solana Ignition Videos](https://www.youtube.com/playlist?list=PLilwLeBwGuK5Ufxsoo14bZ8sIby3ExgRx)
   - Ignition Blastoff Stream | Hackathon Project Ideas (40:51) (Recommended)
   - Figment Solana Learn Pathway 2nd Edition (46:46) (Recommended)
@@ -151,16 +152,20 @@
 
 ### General Solana Track
 
+- [Solana Start Kit (ironaddicteddog)](https://hackmd.io/@ironaddicteddog/solana-starter-kit)
 - [Example Hello World](https://github.com/solana-labs/example-helloworld)
+- [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
+- [Solana teardown: Walkthrough of the example helloworld program](https://dev.to/cogoo/solana-teardown-walkthrough-of-the-example-helloworld-program-18m4)
 - [Solana dApp scaffold](https://github.com/solana-labs/dapp-scaffold)
 - [Wallet Adapter](https://github.com/solana-labs/wallet-adapter)
 - [Web3.js SDK](https://github.com/solana-labs/solana-web3.js)
 - [Programming Solana (Youtube - David Choi)](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
 - [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
-- [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
 - [Solana - 8 Key Innovations Simplified and Analogized](https://hashnode.com/post/solana-8-key-innovations-simplified-and-analogized-cku5q6zeh0jdsp9s1f9tp6ch6)
 - [Solana's 8 Innovations](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
 - [Solana Dev Blog (Jstary)](https://jstarry.notion.site/jstarry/Solana-Dev-Blog-302b7e08652c4a2dbc0be4f6a3b0d317)
+- [Build Solana Anchor Blog with Svelte Front end Tutorial - Part 1 (Doug Anderson)](https://www.youtube.com/watch?v=w-n87Aq3f8k)
+- [Solana Anchor Part2: Deploy! -- High Def Code Walkthrough (Doug Anderson)](https://www.youtube.com/watch?v=gy4iNEUUyBo)
 
 ### Community Contributed
 
@@ -232,6 +237,7 @@
 
 ### Rust Books & Websites
 
+- [Rust Language Cheatsheet](https://cheats.rs/)
 - [Rust Learning Resources by Figment.io](https://learn.figment.io/network-documentation/extra-guides/rust-learning-resources)
 - [Tour of Rust](https://tourofrust.com/)
 - [Learn Rust](https://www.rust-lang.org/learn)
