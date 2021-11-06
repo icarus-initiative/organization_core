@@ -38,9 +38,9 @@
 
 - Intermediate Level:
 
-  - [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
-  - [The Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
-  - [Programming on Solana: An Introduction (Escrow)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+  - [A Gentle Introduction to Solana (Kirima)](https://kirima.vercel.app/post/gentleintrosolana)
+  - [The Complete Guide to Full Stack Solana Development (Dabit)](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+  - [Programming on Solana: An Introduction with Escrow (Paulx)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 
 - Another approach is building projects and consuming resources with [Expeditions](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md) as a group or solo.
 
@@ -109,14 +109,6 @@
 
 ---
 
-### Community Contributed
-
-- [How to read docs.rs](http://blog.frqc.info/post/how-to-read-rust-docs/)
-- [Code Challenges work through](https://github.com/SRITANU/SolHack_Rust_StudyGroup)
-- [Common Programming Problems](https://adriann.github.io/programming_problems.html)
-
----
-
 ## Solana Resources
 
 ---
@@ -143,32 +135,14 @@
 
 ### Solana Ignition Hackathon Workshop Series
 
-- [All SolanaTV Twitch Videos](https://www.twitch.tv/solanatv/videos) (Recommended)
-- [Ignition Blastoff Stream | Hackathon Project Ideas (47:32)](https://www.twitch.tv/videos/1137789063) (Recommended)
-- [Figment Solana Learn Pathway 2nd Edition (53:03)](https://www.twitch.tv/videos/1141746104) (Recommended)
-- [How to Anchor: An introduction to the Anchor Framework (1:15:24)](https://www.twitch.tv/videos/1142817871) (Recommended)
-- [Mango Workshop (1:14:48)](https://www.twitch.tv/videos/1143687434)
-
-- [NFT / Metaplex Workshop (1:03:50)](https://www.twitch.tv/videos/1144702694) (Recommended for NFT enthusiasts)
-- [Solnet Workshop (1:10:24)](https://www.twitch.tv/videos/1147556805)
-- [PsyOptions Workshop (1:07:29)](https://www.twitch.tv/videos/1147690238)
-- [Zeta Workshop (57:05)](https://www.twitch.tv/videos/1148393754)
-- [The Future of Blockchain Gaming (1:02:05)](https://www.twitch.tv/videos/1148629730) (Recommended for GameFi enthusiasts)
-
-- [How to Use a Hosted Node Service to Scale Your Solana Project (24:56)](https://www.twitch.tv/videos/1149480135)
-- [Ignition Fireside Chat with Jeremy Allaire (57:37)](https://www.twitch.tv/videos/1150449331)
-- [Phantom Workshop (48:35)](https://www.twitch.tv/videos/1150562321)
-- [Investing in Crypto Startups Today (42:04)](https://www.twitch.tv/videos/1151452931)
-- [Chainlink Oracle (44:27)](https://www.twitch.tv/videos/1151662974)
-
-- [Exploring the Solana Ecosystem with Joe McCann (52:33)](https://www.twitch.tv/videos/1154477795)
-- [Oracles Overview w/ HAPI (46:21)](https://www.twitch.tv/videos/1155227066)
-- [DeFi Alpha Leak (43:42)](https://www.twitch.tv/videos/1156896382)
-- [The good, bad, and ugly of crypto (1:00:10)](https://www.twitch.tv/videos/1160868877)
-- [The Future of Decentralized Exchange (43:52)](https://www.twitch.tv/videos/1167823908)
-
-- [Mango DAO Demo (1:12:18)](https://www.twitch.tv/videos/1175529445) (Recommended for DAO enthusiasts)
-- [Forte + Solana | Josh Williams and Anatoly Yakovenko (56:48)](https://www.twitch.tv/videos/1177521560)
+- [Solana Ignition Hackathon Winners](https://solana.com/news/solana-ignition-hackathon-winners)
+- [Solana Ignition Videos](https://www.youtube.com/playlist?list=PLilwLeBwGuK5Ufxsoo14bZ8sIby3ExgRx)
+  - Ignition Blastoff Stream | Hackathon Project Ideas (40:51) (Recommended)
+  - Figment Solana Learn Pathway 2nd Edition (46:46) (Recommended)
+  - How to Anchor: An introduction to the Anchor Framework (1:07:59) (Recommended)
+  - NFT / Metaplex Workshop (56:42)(Recommended for NFT enthusiasts)
+  - The Future of Blockchain Gaming (55:01) (Recommended for GameFi enthusiasts)
+  - Mango DAO Demo (1:07:28) (Recommended for DAO enthusiasts)
 
 ---
 
@@ -178,25 +152,37 @@
 
 ### General Solana Track
 
+- [Solana Start Kit (ironaddicteddog)](https://hackmd.io/@ironaddicteddog/solana-starter-kit)
 - [Example Hello World](https://github.com/solana-labs/example-helloworld)
+- [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
+- [Solana teardown: Walkthrough of the example helloworld program](https://dev.to/cogoo/solana-teardown-walkthrough-of-the-example-helloworld-program-18m4)
 - [Solana dApp scaffold](https://github.com/solana-labs/dapp-scaffold)
 - [Wallet Adapter](https://github.com/solana-labs/wallet-adapter)
 - [Web3.js SDK](https://github.com/solana-labs/solana-web3.js)
 - [Programming Solana (Youtube - David Choi)](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
 - [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
-- [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
-- [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
 - [Solana - 8 Key Innovations Simplified and Analogized](https://hashnode.com/post/solana-8-key-innovations-simplified-and-analogized-cku5q6zeh0jdsp9s1f9tp6ch6)
 - [Solana's 8 Innovations](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
+- [Solana Dev Blog (Jstary)](https://jstarry.notion.site/jstarry/Solana-Dev-Blog-302b7e08652c4a2dbc0be4f6a3b0d317)
+- [Build Solana Anchor Blog with Svelte Front end Tutorial - Part 1 (Doug Anderson)](https://www.youtube.com/watch?v=w-n87Aq3f8k)
+- [Solana Anchor Part2: Deploy! -- High Def Code Walkthrough (Doug Anderson)](https://www.youtube.com/watch?v=gy4iNEUUyBo)
+
+### Community Contributed
+
+- [How to read docs.rs](http://blog.frqc.info/post/how-to-read-rust-docs/)
+- [Code Challenges work through](https://github.com/SRITANU/SolHack_Rust_StudyGroup)
+- [Common Programming Problems](https://adriann.github.io/programming_problems.html)
 
 ### Smart Contracts Track (FYI Solana Smart Contracts are called Programs)
 
-- [What's the deal with Solana](https://2501babe.github.io/posts/solana101.html)
-- [Solana: How to send custom instructions via instruction data](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
-- [Programming on Solana: An Introduction (Paul Schaaf)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
-- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [What's the deal with Solana (Hana)](https://2501babe.github.io/posts/solana101.html)
+- [Learning How to Build on Solana (Brianfriel)](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
+- [Understanding Program Derived Addresses (Brianfriel)](https://www.brianfriel.xyz/understanding-program-derived-addresses/)
+- [Solana: How to send custom instructions via instruction data (Cogoo)](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
+- [Programming on Solana: An Introduction (Paulx)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+- [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom (Dabit)](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - [Create a fullstack mail dApp on Solana (Figment)](https://learn.figment.io/tutorials/create-a-fullstack-mail-dapp-on-solana)
-- [How to Build and Deploy a Solana Smart Contract](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
+- [How to Build and Deploy a Solana Smart Contract (Harsh Patel)](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
 - [Solana Smart Contracts: Common Pitfalls and How to Avoid Them](https://blog.neodyme.io/posts/solana_common_pitfalls)
 
 ### Anchor Track
@@ -251,7 +237,9 @@
 
 ### Rust Books & Websites
 
+- [Rust Language Cheatsheet](https://cheats.rs/)
 - [Rust Learning Resources by Figment.io](https://learn.figment.io/network-documentation/extra-guides/rust-learning-resources)
+- [Tour of Rust](https://tourofrust.com/)
 - [Learn Rust](https://www.rust-lang.org/learn)
   - [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
   - [The Rust Reference](https://doc.rust-lang.org/reference/index.html)
