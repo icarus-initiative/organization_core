@@ -39,7 +39,12 @@
 - Intermediate Level:
 
   - [A Gentle Introduction to Solana (Kirima)](https://kirima.vercel.app/post/gentleintrosolana)
+  - [Learning How to Build on Solana (Brian Friel)](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
+  - [Understanding Program Derived Addresses (Brian Friel)](https://www.brianfriel.xyz/understanding-program-derived-addresses/)
   - [The Complete Guide to Full Stack Solana Development (Dabit)](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+
+- Advanced Level:
+
   - [Programming on Solana: An Introduction with Escrow (Paulx)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 
 - Another approach is building projects and consuming resources with [Expeditions](https://github.com/icarus-initiative/icarus_initiative/blob/main/expeditions.md) as a group or solo.
@@ -53,14 +58,14 @@
 ### [Figment.io](http://figment.io) - Friendly Solana Protocol Tutorial and Datahub Introduction
 
 - [Figment Discord](https://discord.com/invite/fszyM7K)
+- [Solana Pathway](https://learn.figment.io/protocols/solana)
+  - [SOLANA Learn Pathway Tutorial Series (Figment Learn)](https://www.youtube.com/playlist?list=PLkgTdjgP1aUAiqqbvVi3b0sSdxByd5KSX)
 - [Introducing: The Solana Learn Pathway Crowdcast Replay 1st Edition (1hr)](https://www.youtube.com/watch?v=17XZK-ozg9U)
 - [Figment Learn](https://learn.figment.io/)
 - [Figment Forum (For FAQs, Troubleshooting Errors in Pathways, tech. discussion, posting tech. queries)](https://community.figment.io/)
 - [DataHub (the Web3 Gateway, to complete the pathways you'll need it)](https://datahub.figment.io/)
 - [Figment YouTube (For previous event recordings, pathway videos, intro videos etc)](https://www.youtube.com/channel/UCW8jHuPqYLE6bYFR30aGg9Q)
 - [Tutorials](https://learn.figment.io/figment-learn/all-tutorials)
-- [Solana Pathway](https://learn.figment.io/protocols/solana)
-  - [SOLANA Learn Pathway Tutorial Series (Figment Learn)](https://www.youtube.com/playlist?list=PLkgTdjgP1aUAiqqbvVi3b0sSdxByd5KSX)
 - [Solana Figment Articles](https://figment.io/resources/category/solona/)
 
 ---
@@ -92,6 +97,7 @@
 ### [Questbook](https://www.questbook.app/)
 
 - [Discord](https://discord.com/invite/g9MGWEeq5Z)
+- [Quests](https://questbook.notion.site/Building-on-Solana-f988510b57f5446398c916386b422c40)
 
 ---
 
@@ -155,10 +161,8 @@
 - [Solana Start Kit (ironaddicteddog)](https://hackmd.io/@ironaddicteddog/solana-starter-kit)
 - [Example Hello World](https://github.com/solana-labs/example-helloworld)
 - [A Gentle Introduction to Solana](https://kirima.vercel.app/post/gentleintrosolana)
-- [Solana teardown: Walkthrough of the example helloworld program](https://dev.to/cogoo/solana-teardown-walkthrough-of-the-example-helloworld-program-18m4)
-- [Solana dApp scaffold](https://github.com/solana-labs/dapp-scaffold)
-- [Wallet Adapter](https://github.com/solana-labs/wallet-adapter)
-- [Web3.js SDK](https://github.com/solana-labs/solana-web3.js)
+- [Solana teardown: Walkthrough of the example helloworld program (Cogoo)](https://dev.to/cogoo/solana-teardown-walkthrough-of-the-example-helloworld-program-18m4)
+- [Solana: How to send custom instructions via instruction data (Cogoo)](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
 - [Programming Solana (Youtube - David Choi)](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
 - [Intro to the Solana Programming Model - Technical Workshop](https://www.youtube.com/watch?v=7Iitv5tMOMY)
 - [Solana - 8 Key Innovations Simplified and Analogized](https://hashnode.com/post/solana-8-key-innovations-simplified-and-analogized-cku5q6zeh0jdsp9s1f9tp6ch6)
@@ -166,6 +170,9 @@
 - [Solana Dev Blog (Jstary)](https://jstarry.notion.site/jstarry/Solana-Dev-Blog-302b7e08652c4a2dbc0be4f6a3b0d317)
 - [Build Solana Anchor Blog with Svelte Front end Tutorial - Part 1 (Doug Anderson)](https://www.youtube.com/watch?v=w-n87Aq3f8k)
 - [Solana Anchor Part2: Deploy! -- High Def Code Walkthrough (Doug Anderson)](https://www.youtube.com/watch?v=gy4iNEUUyBo)
+- [Solana dApp scaffold](https://github.com/solana-labs/dapp-scaffold)
+- [Wallet Adapter](https://github.com/solana-labs/wallet-adapter)
+- [Web3.js SDK](https://github.com/solana-labs/solana-web3.js)
 
 ### Community Contributed
 
@@ -178,7 +185,6 @@
 - [What's the deal with Solana (Hana)](https://2501babe.github.io/posts/solana101.html)
 - [Learning How to Build on Solana (Brianfriel)](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
 - [Understanding Program Derived Addresses (Brianfriel)](https://www.brianfriel.xyz/understanding-program-derived-addresses/)
-- [Solana: How to send custom instructions via instruction data (Cogoo)](https://dev.to/cogoo/solana-how-to-send-custom-instructions-via-instruction-data-4g9g)
 - [Programming on Solana: An Introduction (Paulx)](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom (Dabit)](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - [Create a fullstack mail dApp on Solana (Figment)](https://learn.figment.io/tutorials/create-a-fullstack-mail-dapp-on-solana)
@@ -198,6 +204,11 @@
 
 - [A Simple Solana Dapp Tutorial (Voting Dapp by Smith MCF)](https://smith-mcf.medium.com/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana Dapp Tutorial - Demo 1.6 (Voting Dapp)](https://odysee.com/@MCF:0/Solana-Simple-Dapp-Tutorial-Deploy-Demo:2)
+- [Learning How to Build on Solana (BFriel)](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
+  - [Dapp](https://www.pbvote.com/)
+  - [Dapp Repo](https://github.com/bfriel/crunchy-vs-smooth)
+- [Understanding Program Derived Addresses (BFriel)](https://www.brianfriel.xyz/understanding-program-derived-addresses/)
+  - [Dapp Repo V2](https://github.com/bfriel/crunchy-vs-smooth-v2)
 
 ### NFTs Track
 
@@ -270,6 +281,7 @@
 
 ### Rust Courses
 
+- [Learning-Rust](https://learning-rust.github.io/)
 - [Microsoft's Beginner's Series to Rust Course (Youtube: Microsoft Developer)](<https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)>)
   - [Associated Github Repo](<https://github.com/microsoft/beginners-series-rust](https://github.com/microsoft/beginners-series-rust)>)
   - [Microsoft Rust Learning Path](<https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/?WT.mc_id=academic-29077-cxa](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/?WT.mc_id=academic-29077-cxa)>)
